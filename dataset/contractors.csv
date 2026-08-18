@@ -1,0 +1,501 @@
+contractor_id,contractor_name,specialization,district,rating,tier,years_in_business,gst_number,mobile_number,email,active_contracts,completion_rate_percent,status,area_sq_ft,predicted_contract_amount_inr
+VEN0001,Metro Cleaning Engineers,Plumbing,Rajkot,3.9,Bronze,23,24TOPAC2657W1ZR,9442871422,metrocleaningengineers@gmail.com,91,83,Active,2819,68600
+VEN0002,Om HVAC Solutions,Security,Bharuch,4.1,Bronze,3,24SNZJO8685W1ZC,9022021263,omhvacsolutions@gmail.com,99,91,Active,2324,26560
+VEN0003,Eco Painting Solutions,Plumbing,Anand,4.5,Silver,7,24MHYRF3708Z1ZK,9409572486,ecopaintingsolutions@gmail.com,41,88,Active,302,7080
+VEN0004,Prime Furniture Associates,Water Tank Cleaning,Patan,4.4,Silver,20,24KFZNC0167N1ZT,9039598076,primefurnitureassociates@gmail.com,142,88,Active,3053,23750
+VEN0005,Reliable Electrical Engineers,Pest Control,Ahmedabad,4.2,Silver,25,24WGNEX8266E1ZL,9757503098,reliableelectricalengineers@gmail.com,83,87,Active,2306,14160
+VEN0006,Sai Furniture Maintenance,Electrical,Morbi,4.9,Gold,4,24ZNDRY1569R1ZY,9723964512,saifurnituremaintenance@gmail.com,91,80,Active,1214,34590
+VEN0007,Sunrise Furniture Maintenance,Electrical,Surat,3.9,Bronze,9,24BAINH4578S1ZP,9244063480,sunrisefurnituremaintenance@gmail.com,30,81,Active,871,25340
+VEN0008,Green Security Solutions,Furniture,Valsad,3.9,Bronze,6,24KHGYL8509A1ZC,9981424039,greensecuritysolutions@gmail.com,72,94,Active,1608,53960
+VEN0009,Gujarat HVAC Associates,Pest Control,Jamnagar,4.5,Silver,8,24HZPOT0558F1ZB,9901562182,gujarathvacassociates@gmail.com,15,99,Active,1139,6780
+VEN0010,Om HVAC Maintenance,Security,Bharuch,4.4,Silver,8,24RIGDQ4990T1ZS,9902298831,omhvacmaintenance@gmail.com,144,89,Active,9435,107900
+VEN0011,Secure Cleaning Associates,Electrical,Jamnagar,4.0,Bronze,10,24DCOHP7262P1ZI,9980420762,securecleaningassociates@gmail.com,118,97,Active,656,17850
+VEN0012,Skyline Landscaping Services,Plumbing,Surat,3.8,Bronze,13,24PDDIX7882H1ZV,9178461989,skylinelandscapingservices@gmail.com,50,93,Active,2618,62870
+VEN0013,Shree Plumbing Works,HVAC,Anand,4.7,Gold,10,24ESJBM1938H1ZH,9013892639,shreeplumbingworks@gmail.com,142,90,Active,4656,97580
+VEN0014,Shree Electrical Engineers,Painting,Surat,3.8,Bronze,5,24PIULZ1810N1ZA,9586971499,shreeelectricalengineers@gmail.com,85,83,Active,760,13270
+VEN0015,Gujarat Landscaping Engineers,Security,Kutch,4.5,Silver,24,24HDKYR9635A1ZJ,9245644249,gujaratlandscapingengineers@gmail.com,48,82,Active,988,12030
+VEN0016,Gujarat Landscaping Maintenance,Furniture,Navsari,4.1,Bronze,9,24UDBZP7485W1ZW,9331688872,gujaratlandscapingmaintenance@gmail.com,137,94,Active,291,10230
+VEN0017,Sai Landscaping Facility Management,Electrical,Valsad,4.9,Gold,6,24URZPY8675R1ZO,9874226756,sailandscapingfacilitymanagement@gmail.com,75,94,Active,1195,32520
+VEN0018,Om Painting Facility Management,Security,Vadodara,4.0,Bronze,6,24DJDFK3408M1ZY,9568730378,ompaintingfacilitymanagement@gmail.com,112,97,Active,4311,52190
+VEN0019,Sunrise Water Tank Cleaning Facility Management,Painting,Patan,4.3,Silver,17,24AIRKE4160M1ZS,9506140323,sunrisewatertankcleaningfacilitymanagement@gmail.com,102,88,Active,4639,86090
+VEN0020,Skyline Painting Solutions,Landscaping,Surat,4.3,Silver,13,24FBYBA2862P1ZV,9194236977,skylinepaintingsolutions@gmail.com,46,89,Active,10863,154900
+VEN0021,Metro Water Tank Cleaning Services,Water Tank Cleaning,Kutch,4.9,Gold,14,24YFPVG6368Z1ZS,9734353881,metrowatertankcleaningservices@gmail.com,97,94,Active,1017,8380
+VEN0022,Prime HVAC Enterprises,Painting,Morbi,4.6,Silver,16,24LTGWV0824T1ZV,9308127387,primehvacenterprises@gmail.com,75,97,Active,5097,93560
+VEN0023,Shree Landscaping Facility Management,HVAC,Morbi,3.7,Bronze,19,24TRQMU0263S1ZL,9454737221,shreelandscapingfacilitymanagement@gmail.com,54,90,Active,2828,61220
+VEN0024,Metro Landscaping Enterprises,Pest Control,Bharuch,3.9,Bronze,25,24PTPZV2337E1ZI,9002967102,metrolandscapingenterprises@gmail.com,127,94,Active,6165,35720
+VEN0025,Reliable Plumbing Services,Pest Control,Rajkot,4.0,Bronze,4,24KBQBD5391Y1ZN,9672544893,reliableplumbingservices@gmail.com,20,99,Active,5623,35280
+VEN0026,Metro Furniture Facility Management,Electrical,Bhavnagar,4.0,Bronze,9,24EBALP2277O1ZC,9697669456,metrofurniturefacilitymanagement@gmail.com,73,84,Active,3172,87360
+VEN0027,Om Cleaning Enterprises,Water Tank Cleaning,Navsari,4.7,Gold,16,24DRSYN4004K1ZT,9209859962,omcleaningenterprises@gmail.com,15,85,Active,4236,32510
+VEN0028,Elite Landscaping Care,Plumbing,Patan,4.9,Gold,22,24VZMKI1144V1ZM,9854339459,elitelandscapingcare@gmail.com,143,94,Active,1102,25380
+VEN0029,Skyline Cleaning Facility Management,Water Tank Cleaning,Morbi,4.3,Silver,22,24LBGDH8406Z1ZH,9730428196,skylinecleaningfacilitymanagement@gmail.com,44,95,Active,4479,37080
+VEN0030,Skyline Pest Control Care,Landscaping,Jamnagar,3.9,Bronze,14,24EPTDB7837I1ZA,9225941535,skylinepestcontrolcare@gmail.com,144,92,Active,10654,161470
+VEN0031,Urban Security Facility Management,Furniture,Kutch,5.0,Gold,9,24WKIMX3976E1ZP,9919318090,urbansecurityfacilitymanagement@gmail.com,41,93,Active,669,24130
+VEN0032,Prime Electrical Care,Painting,Mehsana,4.7,Gold,21,24SQWWW3377R1ZB,9626220977,primeelectricalcare@gmail.com,30,94,Active,553,10180
+VEN0033,Crystal Painting Services,Cleaning,Navsari,3.7,Bronze,13,24JDNOU1086H1ZP,9914220896,crystalpaintingservices@gmail.com,45,82,Active,2107,16920
+VEN0034,Urban Security Maintenance,HVAC,Bharuch,4.0,Bronze,16,24VFKMG5592V1ZM,9256706492,urbansecuritymaintenance@gmail.com,63,99,Active,6919,159420
+VEN0035,Modern Furniture Facility Management,Plumbing,Rajkot,4.5,Silver,22,24QILPT0271E1ZZ,9595982848,modernfurniturefacilitymanagement@gmail.com,91,83,Active,1931,45780
+VEN0036,Urban Electrical Enterprises,Furniture,Kutch,4.7,Gold,19,24JUANL6658L1ZD,9646936664,urbanelectricalenterprises@gmail.com,82,93,Active,796,28000
+VEN0037,Metro Plumbing Services,Painting,Morbi,4.9,Gold,5,24CXDLR7947E1ZN,9686926242,metroplumbingservices@gmail.com,97,83,Active,2776,51610
+VEN0038,Modern Landscaping Works,Painting,Gandhinagar,3.7,Bronze,5,24YVCFQ9039Z1ZS,9285582775,modernlandscapingworks@gmail.com,75,84,Active,1773,32290
+VEN0039,Prime Landscaping Engineers,Electrical,Ahmedabad,4.7,Gold,6,24AUGIE0757P1ZO,9751590785,primelandscapingengineers@gmail.com,122,80,Active,1181,34260
+VEN0040,Sai Pest Control Infra,Electrical,Morbi,4.2,Silver,24,24XBCPB2653T1ZQ,9254716858,saipestcontrolinfra@gmail.com,115,94,Active,3427,96700
+VEN0041,Royal HVAC Works,HVAC,Patan,4.8,Gold,25,24CLRJD9080D1ZX,9785553136,royalhvacworks@gmail.com,113,81,Active,3957,88830
+VEN0042,Gujarat Water Tank Cleaning Engineers,Water Tank Cleaning,Gandhinagar,4.1,Bronze,6,24RFCVJ7588Y1ZT,9660982173,gujaratwatertankcleaningengineers@gmail.com,91,91,Active,1637,12500
+VEN0043,Shree Plumbing Enterprises,HVAC,Vadodara,4.4,Silver,6,24TZCNJ4133S1ZT,9001662644,shreeplumbingenterprises@gmail.com,74,86,Active,1959,41930
+VEN0044,Secure Electrical Works,Painting,Morbi,4.2,Silver,18,24RBKPA3212K1ZD,9071375880,secureelectricalworks@gmail.com,15,93,Active,3612,63650
+VEN0045,Shree Pest Control Solutions,Water Tank Cleaning,Patan,4.8,Gold,20,24KQHKZ1946L1ZC,9414408727,shreepestcontrolsolutions@gmail.com,24,96,Active,1592,12200
+VEN0046,Metro Landscaping Associates,Security,Junagadh,3.9,Bronze,25,24YQDCG1170Y1ZU,9477495668,metrolandscapingassociates@gmail.com,85,84,Active,6381,74530
+VEN0047,Urban Electrical Care,Painting,Bharuch,4.2,Silver,20,24BNILB8088T1ZT,9545784863,urbanelectricalcare@gmail.com,126,96,Active,3317,57320
+VEN0048,Prime Cleaning Care,Security,Vadodara,3.7,Bronze,18,24QBSZN6393Y1ZK,9606335328,primecleaningcare@gmail.com,43,90,Active,4833,56710
+VEN0049,Om Water Tank Cleaning Enterprises,Painting,Kutch,4.9,Gold,6,24PYIJU8687V1ZQ,9065039371,omwatertankcleaningenterprises@gmail.com,40,84,Active,855,15600
+VEN0050,Om Painting Solutions,Landscaping,Surat,4.3,Silver,23,24ITDJE8781O1ZB,9462427453,ompaintingsolutions@gmail.com,125,86,Active,12955,191700
+VEN0051,Modern Water Tank Cleaning Care,Painting,Kutch,4.2,Silver,18,24NZVUD2685D1ZW,9882729149,modernwatertankcleaningcare@gmail.com,61,94,Active,4263,75740
+VEN0052,Modern Cleaning Infra,Landscaping,Junagadh,3.7,Bronze,9,24KCFIC7310P1ZW,9874690219,moderncleaninginfra@gmail.com,140,93,Active,9785,142510
+VEN0053,Metro Painting Facility Management,Cleaning,Anand,4.0,Bronze,15,24QQBVM5657J1ZN,9035165395,metropaintingfacilitymanagement@gmail.com,134,97,Active,1822,14240
+VEN0054,Shree HVAC Care,HVAC,Junagadh,3.7,Bronze,10,24TJBGR1571L1ZR,9368694117,shreehvaccare@gmail.com,122,81,Active,4300,98730
+VEN0055,Gujarat Furniture Services,Cleaning,Mehsana,4.7,Gold,11,24NZOGT1378K1ZI,9138783944,gujaratfurnitureservices@gmail.com,137,88,Active,1445,11730
+VEN0056,Skyline Water Tank Cleaning Enterprises,Security,Rajkot,4.4,Silver,4,24IHLSE4479T1ZN,9299063869,skylinewatertankcleaningenterprises@gmail.com,41,99,Active,9544,115780
+VEN0057,Urban Cleaning Enterprises,Security,Junagadh,3.7,Bronze,14,24YADLJ4013K1ZU,9290159177,urbancleaningenterprises@gmail.com,59,99,Active,5303,61540
+VEN0058,Gujarat Pest Control Facility Management,Electrical,Valsad,3.8,Bronze,7,24XLCRV3305J1ZF,9796751217,gujaratpestcontrolfacilitymanagement@gmail.com,11,91,Active,3697,105890
+VEN0059,Sunrise Water Tank Cleaning Works,Landscaping,Jamnagar,4.3,Silver,21,24WBKSM4451K1ZU,9045185571,sunrisewatertankcleaningworks@gmail.com,133,81,Active,11299,163780
+VEN0060,Gujarat Plumbing Enterprises,Furniture,Junagadh,4.1,Bronze,18,24XVGQO1355F1ZS,9916768580,gujaratplumbingenterprises@gmail.com,16,98,Active,1366,47230
+VEN0061,A1 Furniture Maintenance,Cleaning,Morbi,4.2,Silver,22,24OQHGU4461N1ZP,9431839337,a1furnituremaintenance@gmail.com,136,97,Active,3762,31570
+VEN0062,Metro Security Facility Management,Painting,Valsad,4.3,Silver,9,24DBYWK9989X1ZK,9119484034,metrosecurityfacilitymanagement@gmail.com,66,86,Active,5229,95440
+VEN0063,Modern Cleaning Services,Water Tank Cleaning,Morbi,4.0,Bronze,11,24NWLWS7345G1ZL,9505729619,moderncleaningservices@gmail.com,105,91,Active,2375,19110
+VEN0064,Reliable Landscaping Works,Furniture,Kutch,4.7,Gold,18,24BBSUN1819K1ZF,9368555454,reliablelandscapingworks@gmail.com,9,91,Active,1542,54970
+VEN0065,Reliable Electrical Infra,Cleaning,Morbi,4.4,Silver,10,24ZUUPS5166M1ZE,9825714442,reliableelectricalinfra@gmail.com,133,99,Active,1369,11330
+VEN0066,Elite Cleaning Enterprises,Landscaping,Mehsana,4.3,Silver,23,24MJYLN5686Z1ZW,9249229977,elitecleaningenterprises@gmail.com,130,90,Active,1750,26970
+VEN0067,Elite Security Associates,Painting,Navsari,4.9,Gold,5,24OOXKI7109C1ZL,9967282521,elitesecurityassociates@gmail.com,66,87,Active,5917,103620
+VEN0068,Royal Cleaning Solutions,Pest Control,Rajkot,4.2,Silver,23,24UAOYK9841J1ZK,9207627809,royalcleaningsolutions@gmail.com,111,85,Active,2166,12390
+VEN0069,Sai HVAC Care,Painting,Surat,3.9,Bronze,2,24HPYIL6581Q1ZO,9283767032,saihvaccare@gmail.com,54,85,Active,2870,50710
+VEN0070,Green HVAC Associates,HVAC,Rajkot,4.1,Bronze,7,24ZMYAJ4235S1ZA,9232641698,greenhvacassociates@gmail.com,84,83,Active,1853,39820
+VEN0071,Gujarat Security Maintenance,Plumbing,Morbi,3.9,Bronze,6,24LZJSX7887V1ZY,9575539189,gujaratsecuritymaintenance@gmail.com,56,98,Active,1153,26870
+VEN0072,Sunrise Plumbing Enterprises,Landscaping,Valsad,4.1,Bronze,5,24RSMXL0145R1ZO,9630202047,sunriseplumbingenterprises@gmail.com,143,81,Active,2654,41570
+VEN0073,Om Pest Control Services,Plumbing,Jamnagar,4.0,Bronze,22,24ZQKZJ8936V1ZR,9181931987,ompestcontrolservices@gmail.com,81,94,Active,1756,43730
+VEN0074,Sunrise HVAC Associates,Furniture,Anand,4.1,Bronze,16,24JHYSC8478A1ZH,9210570742,sunrisehvacassociates@gmail.com,60,81,Active,669,22980
+VEN0075,Royal Water Tank Cleaning Works,Security,Anand,4.4,Silver,11,24WZNKH5571V1ZN,9503635642,royalwatertankcleaningworks@gmail.com,52,97,Active,7928,96610
+VEN0076,Elite Furniture Facility Management,Plumbing,Valsad,4.0,Bronze,3,24OZODG2698C1ZR,9712668177,elitefurniturefacilitymanagement@gmail.com,148,86,Active,2803,66570
+VEN0077,Elite Furniture Works,Cleaning,Gandhinagar,4.0,Bronze,8,24ZDZMG6295Y1ZJ,9353254094,elitefurnitureworks@gmail.com,86,86,Active,3788,31560
+VEN0078,Modern Security Infra,Furniture,Jamnagar,3.7,Bronze,2,24GYPKD3384U1ZV,9374774731,modernsecurityinfra@gmail.com,144,95,Active,433,15090
+VEN0079,Crystal Landscaping Services,Electrical,Surat,4.3,Silver,2,24KVGSA5366T1ZP,9605407525,crystallandscapingservices@gmail.com,115,85,Active,1816,49650
+VEN0080,Metro Electrical Associates,Furniture,Bharuch,3.8,Bronze,13,24GKJKO9268U1ZU,9703500144,metroelectricalassociates@gmail.com,89,98,Active,827,28210
+VEN0081,Metro Landscaping Services,Water Tank Cleaning,Morbi,3.9,Bronze,10,24BBYXO0939S1ZE,9773012838,metrolandscapingservices@gmail.com,89,92,Active,2516,20250
+VEN0082,Prime Electrical Associates,Security,Surat,4.6,Silver,5,24LVITY3702O1ZP,9253153722,primeelectricalassociates@gmail.com,23,82,Active,4874,57100
+VEN0083,A1 Plumbing Infra,Plumbing,Kutch,4.6,Silver,12,24JCYLT1045Q1ZN,9105578047,a1plumbinginfra@gmail.com,148,87,Active,3074,74400
+VEN0084,Secure Plumbing Infra,Painting,Navsari,3.8,Bronze,10,24MBLKM0226T1ZT,9113936833,secureplumbinginfra@gmail.com,39,89,Active,5808,108700
+VEN0085,Reliable Water Tank Cleaning Facility Management,Plumbing,Kutch,4.3,Silver,12,24HSMOG3831S1ZG,9556594742,reliablewatertankcleaningfacilitymanagement@gmail.com,22,93,Active,492,11690
+VEN0086,Elite Plumbing Engineers,Plumbing,Patan,3.9,Bronze,14,24BZMKN9657L1ZW,9856076360,eliteplumbingengineers@gmail.com,107,90,Active,2695,62860
+VEN0087,Skyline Electrical Services,Furniture,Anand,3.7,Bronze,16,24JMRRD9429C1ZD,9873375307,skylineelectricalservices@gmail.com,120,90,Active,1400,51440
+VEN0088,Om Painting Services,Electrical,Ahmedabad,4.7,Gold,12,24QREZG1159H1ZZ,9416406153,ompaintingservices@gmail.com,59,86,Active,1000,28030
+VEN0089,A1 Electrical Maintenance,Landscaping,Bhavnagar,3.7,Bronze,13,24ILGWN6565L1ZL,9868726011,a1electricalmaintenance@gmail.com,83,83,Active,9751,140280
+VEN0090,Crystal Security Enterprises,HVAC,Jamnagar,4.3,Silver,20,24JEQSQ9541K1ZO,9689413564,crystalsecurityenterprises@gmail.com,130,93,Active,7173,150660
+VEN0091,Urban Pest Control Enterprises,Cleaning,Anand,3.7,Bronze,11,24AFHUO7455I1ZY,9595774247,urbanpestcontrolenterprises@gmail.com,68,89,Active,2805,21560
+VEN0092,Sai Pest Control Engineers,Electrical,Valsad,4.1,Bronze,5,24UGVPJ7611G1ZG,9855519259,saipestcontrolengineers@gmail.com,136,83,Active,969,27480
+VEN0093,Prime HVAC Services,Plumbing,Jamnagar,5.0,Gold,9,24DIGVK1663C1ZU,9774768445,primehvacservices@gmail.com,28,94,Active,2093,51700
+VEN0094,Modern Electrical Associates,HVAC,Gandhinagar,4.2,Silver,17,24GVIPO4360D1ZU,9741840926,modernelectricalassociates@gmail.com,38,89,Active,4308,94040
+VEN0095,Crystal Painting Solutions,Painting,Vadodara,4.5,Silver,13,24RQBQS7400G1ZP,9055403186,crystalpaintingsolutions@gmail.com,127,82,Active,2711,46670
+VEN0096,Royal HVAC Solutions,Electrical,Rajkot,4.6,Silver,12,24JHJVW6605T1ZU,9132796428,royalhvacsolutions@gmail.com,40,83,Active,2921,80820
+VEN0097,Green Security Infra,Plumbing,Anand,4.0,Bronze,10,24QGPSH9088G1ZQ,9613677232,greensecurityinfra@gmail.com,23,96,Active,3018,76030
+VEN0098,Shree Security Works,Water Tank Cleaning,Patan,3.8,Bronze,13,24OEMZB5029Z1ZM,9565470562,shreesecurityworks@gmail.com,84,82,Active,2599,20850
+VEN0099,Secure Furniture Enterprises,HVAC,Vadodara,4.4,Silver,11,24SSWBC4463X1ZV,9717719577,securefurnitureenterprises@gmail.com,47,91,Active,6808,156830
+VEN0100,Prime Painting Solutions,Cleaning,Mehsana,4.7,Gold,15,24HBSOC4345L1ZF,9215725082,primepaintingsolutions@gmail.com,125,91,Active,3456,28650
+VEN0101,Green Plumbing Enterprises,Cleaning,Patan,4.9,Gold,9,24IKSHC3591Z1ZQ,9990428350,greenplumbingenterprises@gmail.com,56,89,Active,1258,9570
+VEN0102,Gujarat Water Tank Cleaning Facility Management,Water Tank Cleaning,Morbi,4.2,Silver,8,24TOUDY0566A1ZK,9068715240,gujaratwatertankcleaningfacilitymanagement@gmail.com,41,88,Active,2676,21880
+VEN0103,Om Cleaning Facility Management,Landscaping,Patan,4.9,Gold,24,24XLTPN6350V1ZE,9223877320,omcleaningfacilitymanagement@gmail.com,56,84,Active,14464,220900
+VEN0104,Metro Plumbing Solutions,Pest Control,Mehsana,3.8,Bronze,15,24DJULM8083W1ZW,9628179302,metroplumbingsolutions@gmail.com,49,80,Active,562,3380
+VEN0105,Green Pest Control Associates,Furniture,Rajkot,4.6,Silver,16,24CUDBU2146U1ZC,9528009419,greenpestcontrolassociates@gmail.com,89,83,Active,1748,59750
+VEN0106,Sai Pest Control Services,Water Tank Cleaning,Patan,3.8,Bronze,25,24KAREF1280T1ZT,9224502118,saipestcontrolservices@gmail.com,139,87,Active,3384,27450
+VEN0107,Sunrise Cleaning Infra,Security,Morbi,4.7,Gold,19,24UIOIH0508I1ZB,9843521225,sunrisecleaninginfra@gmail.com,19,87,Active,7072,81570
+VEN0108,Green Security Enterprises,Water Tank Cleaning,Mehsana,3.8,Bronze,25,24SXASY5519P1ZR,9340225092,greensecurityenterprises@gmail.com,38,90,Active,2993,23790
+VEN0109,Crystal Security Services,Water Tank Cleaning,Jamnagar,3.6,Bronze,5,24WWYJY3131F1ZX,9979619697,crystalsecurityservices@gmail.com,62,98,Active,1342,10690
+VEN0110,Crystal HVAC Engineers,Painting,Jamnagar,4.6,Silver,7,24SYYKZ9069T1ZH,9614303369,crystalhvacengineers@gmail.com,90,94,Active,2228,41920
+VEN0111,Shree Painting Facility Management,Electrical,Junagadh,3.9,Bronze,10,24USBLK1483M1ZD,9875724700,shreepaintingfacilitymanagement@gmail.com,71,83,Active,2623,76200
+VEN0112,Om Security Enterprises,Plumbing,Vadodara,4.8,Gold,19,24YZIZX7466N1ZF,9039459562,omsecurityenterprises@gmail.com,29,81,Active,3140,73580
+VEN0113,Green Water Tank Cleaning Associates,Plumbing,Surat,4.8,Gold,13,24ACVQM0269P1ZD,9334605183,greenwatertankcleaningassociates@gmail.com,119,81,Active,1488,35710
+VEN0114,A1 Pest Control Care,Painting,Surat,4.0,Bronze,6,24TRCIO9558Q1ZN,9969522380,a1pestcontrolcare@gmail.com,137,98,Active,2241,39040
+VEN0115,Crystal Plumbing Facility Management,Plumbing,Surat,4.7,Gold,15,24CRFVD5378C1ZM,9558590757,crystalplumbingfacilitymanagement@gmail.com,33,93,Active,2884,72070
+VEN0116,Prime Plumbing Maintenance,Electrical,Rajkot,4.4,Silver,20,24UUWWW2654F1ZI,9466438604,primeplumbingmaintenance@gmail.com,73,91,Active,2344,68060
+VEN0117,Shree Security Engineers,Pest Control,Rajkot,4.0,Bronze,9,24DZLVH4612N1ZX,9453070747,shreesecurityengineers@gmail.com,139,98,Active,3541,20820
+VEN0118,Shree Plumbing Facility Management,Furniture,Surat,4.8,Gold,9,24ABJFJ4396H1ZL,9449453828,shreeplumbingfacilitymanagement@gmail.com,28,89,Active,1911,67810
+VEN0119,Shree HVAC Services,Water Tank Cleaning,Gandhinagar,3.8,Bronze,9,24QRGKA7709U1ZF,9602839643,shreehvacservices@gmail.com,94,94,Active,4558,36860
+VEN0120,A1 Furniture Care,Landscaping,Kutch,4.0,Bronze,20,24CNRVJ6621C1ZK,9968278217,a1furniturecare@gmail.com,19,99,Active,3340,48360
+VEN0121,Shree Pest Control Engineers,HVAC,Kutch,4.0,Bronze,14,24TPZVI7664V1ZL,9588810128,shreepestcontrolengineers@gmail.com,51,90,Active,3369,76060
+VEN0122,Om Furniture Works,Painting,Patan,3.9,Bronze,12,24JPMDB6564G1ZQ,9165481939,omfurnitureworks@gmail.com,122,84,Active,1643,29690
+VEN0123,Reliable Plumbing Solutions,Plumbing,Mehsana,4.3,Silver,22,24BLFUO1771N1ZU,9444057987,reliableplumbingsolutions@gmail.com,140,86,Active,1210,29850
+VEN0124,Shree Cleaning Facility Management,Security,Navsari,3.9,Bronze,6,24CNHBB9455N1ZV,9939319942,shreecleaningfacilitymanagement@gmail.com,38,86,Active,9697,116720
+VEN0125,Shree Water Tank Cleaning Associates,Security,Surat,3.8,Bronze,14,24WGNBZ6606N1ZO,9354166366,shreewatertankcleaningassociates@gmail.com,74,99,Active,9330,106370
+VEN0126,Prime HVAC Solutions,Water Tank Cleaning,Rajkot,4.3,Silver,11,24CCFFG5272B1ZR,9429306986,primehvacsolutions@gmail.com,43,82,Active,2952,23200
+VEN0127,Secure Electrical Solutions,Furniture,Valsad,4.9,Gold,11,24GBVWW3641Y1ZB,9016389273,secureelectricalsolutions@gmail.com,92,85,Active,1629,54280
+VEN0128,Metro HVAC Infra,Painting,Kutch,4.9,Gold,24,24WUQUC6091N1ZS,9454676887,metrohvacinfra@gmail.com,38,95,Active,5288,99270
+VEN0129,Elite Electrical Infra,Electrical,Bharuch,4.2,Silver,22,24ISRTO5963Q1ZW,9706236385,eliteelectricalinfra@gmail.com,18,80,Active,2054,59690
+VEN0130,Crystal Landscaping Care,Plumbing,Vadodara,4.8,Gold,17,24IIHNO3804S1ZO,9043970405,crystallandscapingcare@gmail.com,28,99,Active,2590,64220
+VEN0131,Gujarat Landscaping Associates,Pest Control,Mehsana,3.9,Bronze,13,24VVVIT5734D1ZY,9603675318,gujaratlandscapingassociates@gmail.com,131,84,Active,3571,21010
+VEN0132,Skyline Electrical Engineers,Furniture,Rajkot,4.5,Silver,14,24FVEIT0661O1ZO,9691450984,skylineelectricalengineers@gmail.com,135,85,Active,841,28130
+VEN0133,Crystal Plumbing Solutions,Water Tank Cleaning,Mehsana,4.1,Bronze,18,24WKPSG3328E1ZN,9685853752,crystalplumbingsolutions@gmail.com,58,99,Active,2596,21550
+VEN0134,Gujarat Security Enterprises,Plumbing,Mehsana,5.0,Gold,24,24DJMOR4782N1ZZ,9013002796,gujaratsecurityenterprises@gmail.com,42,81,Active,766,19210
+VEN0135,Gujarat Furniture Associates,Pest Control,Rajkot,3.6,Bronze,21,24WTWTO2772V1ZB,9939935026,gujaratfurnitureassociates@gmail.com,118,87,Active,4474,25730
+VEN0136,Modern Water Tank Cleaning Associates,Furniture,Gandhinagar,4.6,Silver,11,24LZBZT1022F1ZS,9804909576,modernwatertankcleaningassociates@gmail.com,82,95,Active,1110,38800
+VEN0137,Sunrise Security Solutions,Security,Anand,4.7,Gold,7,24NUEOK3863J1ZG,9964576132,sunrisesecuritysolutions@gmail.com,67,81,Active,1989,22840
+VEN0138,Reliable HVAC Solutions,Landscaping,Navsari,4.1,Bronze,2,24XVJUL0815D1ZF,9975626268,reliablehvacsolutions@gmail.com,57,97,Active,13382,205960
+VEN0139,Skyline Electrical Enterprises,Security,Surat,3.6,Bronze,4,24BEGBV9444K1ZA,9310707083,skylineelectricalenterprises@gmail.com,133,83,Active,1271,15660
+VEN0140,Gujarat Painting Maintenance,Pest Control,Kutch,3.7,Bronze,14,24VAEFT7826J1ZV,9898690810,gujaratpaintingmaintenance@gmail.com,105,97,Active,7354,42480
+VEN0141,Sunrise Electrical Engineers,Security,Gandhinagar,3.9,Bronze,15,24XWDEQ2165B1ZY,9994520074,sunriseelectricalengineers@gmail.com,89,91,Active,2296,27480
+VEN0142,Prime Furniture Solutions,Electrical,Gandhinagar,4.0,Bronze,12,24MIRSD5891K1ZH,9776236344,primefurnituresolutions@gmail.com,83,95,Active,926,26060
+VEN0143,Sunrise Electrical Enterprises,Electrical,Bharuch,4.5,Silver,6,24XFTQS8868S1ZM,9720285613,sunriseelectricalenterprises@gmail.com,79,84,Active,2870,78470
+VEN0144,Urban Landscaping Associates,Security,Ahmedabad,3.7,Bronze,23,24GZZRT1155E1ZX,9790722265,urbanlandscapingassociates@gmail.com,97,92,Active,3121,38850
+VEN0145,Elite Pest Control Services,Security,Rajkot,3.7,Bronze,24,24ZQHTP5335C1ZQ,9292483780,elitepestcontrolservices@gmail.com,40,94,Active,7416,88310
+VEN0146,Crystal Furniture Solutions,Painting,Gandhinagar,4.3,Silver,6,24EJSDF8744G1ZS,9180051605,crystalfurnituresolutions@gmail.com,19,85,Active,5385,94140
+VEN0147,A1 Plumbing Associates,Water Tank Cleaning,Ahmedabad,4.9,Gold,25,24SVYFP4424E1ZZ,9576516950,a1plumbingassociates@gmail.com,101,92,Active,1320,10600
+VEN0148,Prime Electrical Services,Landscaping,Patan,3.9,Bronze,6,24PEXPW5706T1ZR,9887653052,primeelectricalservices@gmail.com,128,92,Active,7304,112080
+VEN0149,Modern Water Tank Cleaning Maintenance,Plumbing,Bharuch,3.7,Bronze,17,24TXCPO2070Q1ZD,9532841452,modernwatertankcleaningmaintenance@gmail.com,142,93,Active,1763,41050
+VEN0150,Modern Water Tank Cleaning Engineers,HVAC,Gandhinagar,5.0,Gold,15,24OOEOM9573E1ZV,9127915786,modernwatertankcleaningengineers@gmail.com,18,85,Active,6081,131260
+VEN0151,Green Cleaning Solutions,Pest Control,Patan,4.8,Gold,4,24BFCAJ9657T1ZB,9986426820,greencleaningsolutions@gmail.com,135,96,Active,4134,26030
+VEN0152,Royal Water Tank Cleaning Enterprises,Security,Anand,4.5,Silver,22,24AEZUJ3557C1ZC,9575538294,royalwatertankcleaningenterprises@gmail.com,108,98,Active,9169,111680
+VEN0153,Shree Painting Enterprises,Electrical,Vadodara,4.2,Silver,18,24HYUYW8569S1ZP,9779445010,shreepaintingenterprises@gmail.com,61,87,Active,1329,36980
+VEN0154,Reliable HVAC Works,Cleaning,Bharuch,4.3,Silver,9,24HKTIO1325F1ZX,9694178222,reliablehvacworks@gmail.com,96,84,Active,894,7160
+VEN0155,Metro Electrical Solutions,Pest Control,Ahmedabad,4.5,Silver,19,24YWJIX8521Y1ZQ,9225074553,metroelectricalsolutions@gmail.com,49,94,Active,5872,33900
+VEN0156,Metro Landscaping Care,Cleaning,Ahmedabad,4.0,Bronze,23,24FPIPG5246L1ZF,9427382115,metrolandscapingcare@gmail.com,63,83,Active,1738,13520
+VEN0157,A1 Furniture Associates,HVAC,Gandhinagar,4.2,Silver,6,24UTMAK1865K1ZZ,9428001228,a1furnitureassociates@gmail.com,29,94,Active,6784,146830
+VEN0158,Reliable Painting Works,Landscaping,Bharuch,4.1,Bronze,13,24ADWZF5617L1ZK,9647832611,reliablepaintingworks@gmail.com,91,93,Active,9797,148250
+VEN0159,Green Electrical Solutions,Furniture,Mehsana,3.8,Bronze,12,24QSPKX7975O1ZN,9181227723,greenelectricalsolutions@gmail.com,29,82,Active,1637,55750
+VEN0160,Elite Landscaping Services,HVAC,Vadodara,3.6,Bronze,5,24GERXI2261F1ZA,9039848951,elitelandscapingservices@gmail.com,143,85,Active,3385,72390
+VEN0161,Urban Water Tank Cleaning Infra,Landscaping,Navsari,4.3,Silver,13,24MFCIK1057E1ZL,9256472775,urbanwatertankcleaninginfra@gmail.com,6,97,Active,13592,195130
+VEN0162,Modern Furniture Infra,HVAC,Kutch,4.8,Gold,9,24ETKJG4279Z1ZW,9627848126,modernfurnitureinfra@gmail.com,120,88,Active,6450,143760
+VEN0163,Shree Plumbing Services,Cleaning,Bhavnagar,5.0,Gold,5,24HDLAC0247P1ZL,9473890704,shreeplumbingservices@gmail.com,54,88,Active,3586,27910
+VEN0164,Royal HVAC Care,Cleaning,Gandhinagar,3.9,Bronze,16,24TCRFK9917X1ZR,9526188216,royalhvaccare@gmail.com,88,80,Active,1713,14260
+VEN0165,Crystal Painting Maintenance,Furniture,Ahmedabad,3.8,Bronze,3,24PRREU2463Y1ZU,9031514356,crystalpaintingmaintenance@gmail.com,93,94,Active,701,25420
+VEN0166,Eco Cleaning Infra,Plumbing,Bharuch,4.1,Bronze,3,24MLHSE1372T1ZR,9154854757,ecocleaninginfra@gmail.com,9,99,Active,1980,45480
+VEN0167,Modern Water Tank Cleaning Facility Management,Electrical,Kutch,4.0,Bronze,8,24NMOPI6150E1ZF,9824058657,modernwatertankcleaningfacilitymanagement@gmail.com,70,81,Active,947,25820
+VEN0168,Modern Furniture Maintenance,Cleaning,Gandhinagar,4.6,Silver,22,24MXCUB5943W1ZB,9820039907,modernfurnituremaintenance@gmail.com,141,92,Active,4516,36740
+VEN0169,Eco Furniture Associates,Water Tank Cleaning,Bhavnagar,4.5,Silver,19,24TKCQJ4681F1ZR,9431943393,ecofurnitureassociates@gmail.com,100,93,Active,826,6420
+VEN0170,Skyline Security Maintenance,Landscaping,Gandhinagar,3.9,Bronze,14,24TYGZL3795Q1ZE,9933280862,skylinesecuritymaintenance@gmail.com,146,96,Active,12830,185370
+VEN0171,Sunrise Water Tank Cleaning Maintenance,Cleaning,Valsad,3.8,Bronze,13,24EGXGG3552C1ZX,9344878060,sunrisewatertankcleaningmaintenance@gmail.com,102,82,Active,2957,24690
+VEN0172,Sai Security Works,HVAC,Patan,4.8,Gold,5,24WFQPA7330R1ZS,9152073455,saisecurityworks@gmail.com,61,93,Active,5300,117430
+VEN0173,Gujarat HVAC Enterprises,Electrical,Morbi,3.8,Bronze,20,24TOGKL6741M1ZU,9559522465,gujarathvacenterprises@gmail.com,33,93,Active,3420,95500
+VEN0174,Skyline Security Works,Security,Ahmedabad,3.9,Bronze,11,24EJVUQ4926E1ZY,9707261823,skylinesecurityworks@gmail.com,33,89,Active,3427,42290
+VEN0175,Urban Pest Control Services,Landscaping,Gandhinagar,4.1,Bronze,8,24OTOQZ6639Q1ZB,9202624906,urbanpestcontrolservices@gmail.com,97,83,Active,9317,144050
+VEN0176,Shree Painting Infra,HVAC,Rajkot,3.9,Bronze,12,24MPCFZ5709J1ZK,9470633992,shreepaintinginfra@gmail.com,20,88,Active,2071,44150
+VEN0177,Green Cleaning Associates,Furniture,Jamnagar,4.9,Gold,12,24XRCJY6622E1ZN,9993521588,greencleaningassociates@gmail.com,84,96,Active,1882,63210
+VEN0178,Crystal Security Solutions,Electrical,Bhavnagar,4.4,Silver,12,24VDAIZ9378U1ZX,9271176252,crystalsecuritysolutions@gmail.com,64,87,Active,2861,79560
+VEN0179,Shree Security Solutions,Pest Control,Jamnagar,4.6,Silver,18,24VMQEK4124A1ZI,9926221946,shreesecuritysolutions@gmail.com,88,94,Active,2744,16340
+VEN0180,Royal HVAC Infra,Water Tank Cleaning,Kutch,4.7,Gold,25,24IPTPN8754B1ZH,9537556023,royalhvacinfra@gmail.com,82,89,Active,4958,39530
+VEN0181,Urban Plumbing Infra,Cleaning,Jamnagar,4.0,Bronze,16,24VLSCU9614O1ZA,9157242697,urbanplumbinginfra@gmail.com,36,82,Active,2429,19880
+VEN0182,Metro Pest Control Works,HVAC,Bhavnagar,3.7,Bronze,14,24OBEIW8117B1ZN,9379218907,metropestcontrolworks@gmail.com,8,94,Active,2452,54880
+VEN0183,Elite Pest Control Associates,Water Tank Cleaning,Morbi,4.7,Gold,9,24FRLLP0826G1ZB,9103105630,elitepestcontrolassociates@gmail.com,32,93,Active,3863,32400
+VEN0184,Crystal Plumbing Engineers,Water Tank Cleaning,Bhavnagar,4.5,Silver,16,24TJATI8878C1ZJ,9418342205,crystalplumbingengineers@gmail.com,140,82,Active,2123,16300
+VEN0185,Elite Water Tank Cleaning Engineers,Security,Bharuch,4.2,Silver,18,24OQYPM7488H1ZW,9211477264,elitewatertankcleaningengineers@gmail.com,16,90,Active,9337,110950
+VEN0186,Modern Landscaping Facility Management,Furniture,Navsari,3.6,Bronze,10,24UINIA6376A1ZF,9189440114,modernlandscapingfacilitymanagement@gmail.com,142,90,Active,1694,58340
+VEN0187,Urban HVAC Services,Painting,Mehsana,4.8,Gold,19,24NFRUX3920M1ZU,9516117387,urbanhvacservices@gmail.com,74,93,Active,4844,90350
+VEN0188,Om Pest Control Facility Management,Painting,Gandhinagar,4.1,Bronze,18,24HCUUX4045G1ZK,9975718896,ompestcontrolfacilitymanagement@gmail.com,38,86,Active,504,8840
+VEN0189,Secure Electrical Services,Cleaning,Vadodara,4.0,Bronze,12,24MBNRI5383G1ZJ,9234112065,secureelectricalservices@gmail.com,57,97,Active,3455,26780
+VEN0190,A1 Plumbing Engineers,Plumbing,Vadodara,4.4,Silver,11,24PILDM6104F1ZW,9558663876,a1plumbingengineers@gmail.com,141,82,Active,2201,52550
+VEN0191,Urban Water Tank Cleaning Enterprises,Pest Control,Rajkot,3.7,Bronze,16,24IQTMY1823F1ZW,9938340148,urbanwatertankcleaningenterprises@gmail.com,77,91,Active,459,2730
+VEN0192,Prime Landscaping Solutions,Electrical,Mehsana,4.2,Silver,19,24QUNKK6593K1ZG,9857475260,primelandscapingsolutions@gmail.com,129,83,Active,758,20750
+VEN0193,Urban Security Associates,Pest Control,Bhavnagar,3.7,Bronze,11,24YBCVU3460E1ZS,9960115351,urbansecurityassociates@gmail.com,86,89,Active,7911,46280
+VEN0194,Gujarat HVAC Works,Water Tank Cleaning,Ahmedabad,5.0,Gold,21,24ZKDHJ5078L1ZD,9882733335,gujarathvacworks@gmail.com,49,95,Active,3773,31460
+VEN0195,Prime Painting Enterprises,Electrical,Ahmedabad,3.8,Bronze,6,24SMLZC6447T1ZN,9644832404,primepaintingenterprises@gmail.com,65,96,Active,3899,108550
+VEN0196,A1 HVAC Associates,Cleaning,Surat,4.4,Silver,20,24MJPZC7587I1ZO,9556266665,a1hvacassociates@gmail.com,84,99,Active,3319,27510
+VEN0197,Sai Security Associates,Pest Control,Valsad,4.7,Gold,18,24XOIJZ2165J1ZX,9726556270,saisecurityassociates@gmail.com,129,82,Active,2261,13630
+VEN0198,A1 Painting Enterprises,Painting,Bharuch,4.5,Silver,2,24TPXTR3172F1ZZ,9509958874,a1paintingenterprises@gmail.com,103,87,Active,974,16740
+VEN0199,Urban Plumbing Facility Management,Security,Surat,4.4,Silver,22,24GVBMM4992V1ZW,9325427335,urbanplumbingfacilitymanagement@gmail.com,15,83,Active,4446,56020
+VEN0200,Sunrise Security Infra,Painting,Mehsana,4.5,Silver,10,24GCRKU7751K1ZV,9615680014,sunrisesecurityinfra@gmail.com,61,89,Active,5147,95760
+VEN0201,A1 Furniture Services,Electrical,Surat,3.6,Bronze,21,24RVYQS1816U1ZS,9811126049,a1furnitureservices@gmail.com,114,90,Active,622,18230
+VEN0202,A1 Plumbing Solutions,Cleaning,Kutch,4.0,Bronze,14,24IBYGL4961P1ZD,9172697105,a1plumbingsolutions@gmail.com,69,94,Active,1501,12520
+VEN0203,Shree Pest Control Enterprises,Cleaning,Surat,4.5,Silver,23,24KDIKA7744X1ZY,9802367159,shreepestcontrolenterprises@gmail.com,90,89,Active,4781,39580
+VEN0204,Om Pest Control Engineers,Plumbing,Surat,4.5,Silver,14,24RHKCR4841B1ZG,9092376498,ompestcontrolengineers@gmail.com,9,81,Active,483,11210
+VEN0205,Reliable Cleaning Works,Cleaning,Kutch,4.7,Gold,5,24FRNYW5720X1ZE,9409626069,reliablecleaningworks@gmail.com,29,94,Active,1830,14620
+VEN0206,Crystal Water Tank Cleaning Solutions,Electrical,Rajkot,4.7,Gold,17,24PQBFI8741V1ZS,9539201027,crystalwatertankcleaningsolutions@gmail.com,48,91,Active,825,22440
+VEN0207,Sunrise Plumbing Care,Water Tank Cleaning,Surat,3.9,Bronze,6,24CWPUA4010U1ZS,9848762654,sunriseplumbingcare@gmail.com,49,99,Active,4693,37170
+VEN0208,Sai Water Tank Cleaning Enterprises,Water Tank Cleaning,Vadodara,4.6,Silver,22,24VHKOE9968R1ZQ,9276217694,saiwatertankcleaningenterprises@gmail.com,50,85,Active,2152,16460
+VEN0209,Sai Cleaning Works,HVAC,Bharuch,4.0,Bronze,12,24QXLCB5105C1ZH,9753163730,saicleaningworks@gmail.com,110,86,Active,3371,73260
+VEN0210,Green Furniture Solutions,Pest Control,Surat,4.3,Silver,15,24DYLKD7692E1ZB,9601841386,greenfurnituresolutions@gmail.com,48,98,Active,4622,29080
+VEN0211,Sunrise Furniture Solutions,Landscaping,Morbi,4.2,Silver,8,24PVHST2358S1ZE,9984097543,sunrisefurnituresolutions@gmail.com,30,94,Active,10938,160220
+VEN0212,Elite Furniture Solutions,Cleaning,Patan,4.4,Silver,8,24DHQCM3787A1ZO,9417186706,elitefurnituresolutions@gmail.com,103,90,Active,4266,35100
+VEN0213,Secure Cleaning Engineers,Painting,Gandhinagar,4.2,Silver,23,24CWTBY6813T1ZB,9315072921,securecleaningengineers@gmail.com,127,98,Active,2235,40050
+VEN0214,Eco Furniture Works,Painting,Patan,4.1,Bronze,10,24BJLNV4588O1ZT,9366981803,ecofurnitureworks@gmail.com,50,89,Active,4917,87820
+VEN0215,Om Electrical Enterprises,Plumbing,Morbi,4.0,Bronze,6,24WNQHZ5134U1ZA,9208296436,omelectricalenterprises@gmail.com,88,95,Active,3293,82650
+VEN0216,Secure Landscaping Care,Water Tank Cleaning,Jamnagar,4.2,Silver,11,24EGMZU0341F1ZW,9511797119,securelandscapingcare@gmail.com,37,94,Active,2447,20550
+VEN0217,A1 Security Enterprises,Cleaning,Mehsana,3.9,Bronze,13,24DLZND0979K1ZE,9079374299,a1securityenterprises@gmail.com,42,98,Active,3353,26970
+VEN0218,Urban Security Solutions,Cleaning,Jamnagar,4.6,Silver,23,24OIKVL0065H1ZZ,9920546051,urbansecuritysolutions@gmail.com,86,99,Active,4068,33250
+VEN0219,Secure Cleaning Works,HVAC,Junagadh,4.2,Silver,14,24JHJZW0749Z1ZO,9289481502,securecleaningworks@gmail.com,126,96,Active,6702,142350
+VEN0220,Reliable Electrical Maintenance,Electrical,Ahmedabad,4.7,Gold,15,24QHEMO9182P1ZB,9835472713,reliableelectricalmaintenance@gmail.com,125,83,Active,2961,81220
+VEN0221,Elite Furniture Services,Painting,Morbi,3.8,Bronze,4,24PJMLG6983X1ZS,9025146303,elitefurnitureservices@gmail.com,96,81,Active,3559,67060
+VEN0222,Gujarat Painting Associates,Electrical,Gandhinagar,4.5,Silver,22,24ECTOW8636W1ZL,9058053439,gujaratpaintingassociates@gmail.com,31,86,Active,2094,59100
+VEN0223,Prime Landscaping Facility Management,Landscaping,Rajkot,4.8,Gold,15,24LBVYM3388T1ZQ,9737082812,primelandscapingfacilitymanagement@gmail.com,37,86,Active,9479,142780
+VEN0224,Prime Electrical Infra,Electrical,Vadodara,4.6,Silver,2,24UTBCU5012C1ZJ,9677929130,primeelectricalinfra@gmail.com,76,98,Active,2149,61660
+VEN0225,Modern Security Enterprises,Water Tank Cleaning,Anand,4.8,Gold,18,24OCPAF1295X1ZD,9998461618,modernsecurityenterprises@gmail.com,102,93,Active,1791,13690
+VEN0226,Eco Landscaping Facility Management,Security,Rajkot,4.2,Silver,16,24CDTSO0312T1ZX,9394528108,ecolandscapingfacilitymanagement@gmail.com,126,91,Active,4561,55190
+VEN0227,Crystal Cleaning Care,HVAC,Valsad,4.5,Silver,18,24RCDKP1990G1ZK,9284244775,crystalcleaningcare@gmail.com,107,91,Active,3040,66900
+VEN0228,Elite Water Tank Cleaning Infra,Landscaping,Bharuch,5.0,Gold,6,24TCGMQ1000V1ZA,9936160077,elitewatertankcleaninginfra@gmail.com,124,86,Active,2049,31820
+VEN0229,Gujarat Pest Control Care,Landscaping,Mehsana,4.3,Silver,19,24OYALX3334B1ZF,9583741741,gujaratpestcontrolcare@gmail.com,130,97,Active,6539,94720
+VEN0230,Sunrise Water Tank Cleaning Care,Plumbing,Surat,4.3,Silver,14,24GPJRT2051L1ZL,9857634940,sunrisewatertankcleaningcare@gmail.com,67,87,Active,286,7180
+VEN0231,Royal Painting Maintenance,Electrical,Navsari,3.7,Bronze,5,24IAILW5926S1ZA,9933581635,royalpaintingmaintenance@gmail.com,91,85,Active,2709,72670
+VEN0232,Gujarat Security Infra,Electrical,Gandhinagar,3.9,Bronze,11,24GHOUQ9755I1ZC,9554308526,gujaratsecurityinfra@gmail.com,85,86,Active,2568,69640
+VEN0233,Skyline HVAC Engineers,Pest Control,Bhavnagar,4.5,Silver,2,24QNEMR8926Z1ZT,9899702427,skylinehvacengineers@gmail.com,81,93,Active,2185,13230
+VEN0234,Skyline Security Solutions,HVAC,Bharuch,4.5,Silver,11,24QGPKC1284R1ZN,9492207256,skylinesecuritysolutions@gmail.com,15,95,Active,6020,134760
+VEN0235,Shree Cleaning Solutions,Painting,Vadodara,4.0,Bronze,15,24XRXKV8255D1ZQ,9657540573,shreecleaningsolutions@gmail.com,104,87,Active,2304,40370
+VEN0236,Skyline Furniture Enterprises,Furniture,Bharuch,3.7,Bronze,16,24KWBNS1542I1ZZ,9937809686,skylinefurnitureenterprises@gmail.com,18,87,Active,114,3840
+VEN0237,A1 Landscaping Infra,Security,Rajkot,4.0,Bronze,19,24WWKXK9208H1ZJ,9289687408,a1landscapinginfra@gmail.com,130,95,Active,1663,20730
+VEN0238,Skyline Security Infra,Electrical,Bhavnagar,4.8,Gold,24,24GBKSO3676F1ZU,9460235127,skylinesecurityinfra@gmail.com,38,99,Active,3199,87300
+VEN0239,Skyline Security Care,Plumbing,Bharuch,4.3,Silver,7,24RVUFK1898H1ZA,9996699171,skylinesecuritycare@gmail.com,107,99,Active,2784,67450
+VEN0240,Skyline Water Tank Cleaning Engineers,Security,Bhavnagar,3.8,Bronze,20,24DSLXL6171Z1ZI,9241869264,skylinewatertankcleaningengineers@gmail.com,109,84,Active,1464,17780
+VEN0241,Shree Painting Engineers,Pest Control,Anand,3.9,Bronze,13,24PQCMW9323N1ZX,9505094366,shreepaintingengineers@gmail.com,16,80,Active,2175,12940
+VEN0242,A1 Landscaping Maintenance,HVAC,Junagadh,4.1,Bronze,6,24ZOPGN9813Q1ZN,9110188792,a1landscapingmaintenance@gmail.com,72,99,Active,1752,38870
+VEN0243,A1 Landscaping Works,Plumbing,Mehsana,4.2,Silver,25,24ZTDWR7012B1ZP,9274990374,a1landscapingworks@gmail.com,131,83,Active,328,7890
+VEN0244,Prime Electrical Works,Painting,Bhavnagar,3.7,Bronze,7,24TVORF9071C1ZH,9768066359,primeelectricalworks@gmail.com,87,84,Active,3206,60220
+VEN0245,Shree Electrical Care,Pest Control,Valsad,4.8,Gold,22,24YPAZR9377Z1ZS,9188277560,shreeelectricalcare@gmail.com,70,85,Active,880,5120
+VEN0246,Shree Furniture Enterprises,HVAC,Navsari,4.1,Bronze,22,24TRDML8361V1ZD,9854845478,shreefurnitureenterprises@gmail.com,52,93,Active,5411,121620
+VEN0247,Secure Security Care,Plumbing,Morbi,4.5,Silver,18,24QNHLX4119H1ZQ,9455955447,securesecuritycare@gmail.com,69,91,Active,1174,27440
+VEN0248,A1 Water Tank Cleaning Solutions,Cleaning,Rajkot,4.7,Gold,25,24REEKC8254V1ZO,9629811768,a1watertankcleaningsolutions@gmail.com,32,93,Active,3081,24390
+VEN0249,Sunrise Cleaning Services,Cleaning,Bhavnagar,4.2,Silver,22,24MRWZP4693V1ZW,9680118610,sunrisecleaningservices@gmail.com,128,84,Active,4776,38860
+VEN0250,Royal HVAC Associates,Painting,Valsad,3.9,Bronze,6,24MAEDS9485G1ZJ,9580067987,royalhvacassociates@gmail.com,146,89,Active,2255,39780
+VEN0251,Elite Landscaping Maintenance,Pest Control,Anand,4.6,Silver,24,24BAOOG6816U1ZL,9441744556,elitelandscapingmaintenance@gmail.com,124,84,Active,4717,27780
+VEN0252,Gujarat HVAC Infra,Security,Morbi,4.8,Gold,7,24QHTRD1614P1ZJ,9259326185,gujarathvacinfra@gmail.com,21,90,Active,2667,32810
+VEN0253,Skyline Electrical Maintenance,Landscaping,Anand,3.9,Bronze,17,24GIJBW2165V1ZD,9794481167,skylineelectricalmaintenance@gmail.com,31,97,Active,12851,184530
+VEN0254,Sai Landscaping Solutions,Electrical,Gandhinagar,3.8,Bronze,13,24EHLNT0631G1ZO,9970842127,sailandscapingsolutions@gmail.com,111,91,Active,3914,109130
+VEN0255,Royal Plumbing Associates,Furniture,Jamnagar,4.2,Silver,15,24KKLWU3010Z1ZQ,9903910766,royalplumbingassociates@gmail.com,19,96,Active,1269,46630
+VEN0256,Sunrise Painting Works,Cleaning,Bharuch,4.9,Gold,18,24PDKQX6643Z1ZZ,9678053785,sunrisepaintingworks@gmail.com,143,89,Active,4672,39230
+VEN0257,Eco Electrical Associates,Landscaping,Mehsana,4.4,Silver,22,24EAUPG7791B1ZL,9251794503,ecoelectricalassociates@gmail.com,65,98,Active,4981,71530
+VEN0258,Modern Painting Engineers,Water Tank Cleaning,Jamnagar,4.5,Silver,24,24JTCNF7414N1ZC,9041206457,modernpaintingengineers@gmail.com,72,98,Active,4674,36320
+VEN0259,Elite HVAC Care,Pest Control,Patan,4.6,Silver,7,24DDSDS8124X1ZF,9939641501,elitehvaccare@gmail.com,100,89,Active,6915,40520
+VEN0260,Prime Water Tank Cleaning Infra,Painting,Navsari,3.7,Bronze,8,24ETAOB0434K1ZZ,9388116761,primewatertankcleaninginfra@gmail.com,88,82,Active,3834,72000
+VEN0261,Skyline HVAC Facility Management,Security,Surat,4.9,Gold,23,24XTQWS5775D1ZU,9516505148,skylinehvacfacilitymanagement@gmail.com,35,97,Active,3619,45080
+VEN0262,Crystal Cleaning Engineers,Furniture,Valsad,4.7,Gold,4,24UPKBW0448K1ZM,9210112034,crystalcleaningengineers@gmail.com,48,81,Active,293,10640
+VEN0263,Sai Painting Infra,Plumbing,Patan,3.7,Bronze,12,24GYXBG5255D1ZI,9044442829,saipaintinginfra@gmail.com,30,87,Active,597,14140
+VEN0264,Sunrise Plumbing Engineers,Pest Control,Vadodara,4.4,Silver,22,24NUDOE2995B1ZA,9896610922,sunriseplumbingengineers@gmail.com,102,91,Active,5698,33020
+VEN0265,Eco Water Tank Cleaning Associates,Plumbing,Vadodara,4.0,Bronze,11,24CSVSZ8258V1ZK,9697263293,ecowatertankcleaningassociates@gmail.com,39,80,Active,1965,48730
+VEN0266,Elite Cleaning Services,HVAC,Morbi,4.5,Silver,14,24NUQCA8663M1ZT,9317604942,elitecleaningservices@gmail.com,10,88,Active,4102,92080
+VEN0267,Modern Furniture Solutions,Painting,Anand,4.7,Gold,9,24ZZAMS6096D1ZI,9545656501,modernfurnituresolutions@gmail.com,21,84,Active,3969,72240
+VEN0268,A1 Water Tank Cleaning Facility Management,Painting,Gandhinagar,4.8,Gold,23,24AZRPR8046U1ZB,9838415450,a1watertankcleaningfacilitymanagement@gmail.com,62,81,Active,3867,73000
+VEN0269,Urban Security Services,Security,Vadodara,4.1,Bronze,20,24UZFRY9130U1ZD,9040798249,urbansecurityservices@gmail.com,18,90,Active,8151,99320
+VEN0270,Secure Furniture Solutions,Water Tank Cleaning,Valsad,4.7,Gold,5,24QPCBA3801Z1ZO,9064100846,securefurnituresolutions@gmail.com,110,87,Active,1243,9450
+VEN0271,Shree Pest Control Infra,HVAC,Rajkot,4.2,Silver,12,24QRANP1075G1ZS,9153461101,shreepestcontrolinfra@gmail.com,116,96,Active,6716,152440
+VEN0272,Modern Painting Maintenance,Plumbing,Jamnagar,4.8,Gold,17,24IIJAP6058B1ZN,9396201464,modernpaintingmaintenance@gmail.com,89,98,Active,2876,67640
+VEN0273,Reliable Water Tank Cleaning Engineers,Plumbing,Rajkot,4.2,Silver,16,24WXMXQ6424Y1ZK,9834800351,reliablewatertankcleaningengineers@gmail.com,117,86,Active,2846,69420
+VEN0274,Eco Furniture Engineers,Painting,Bhavnagar,3.8,Bronze,12,24WGFEG1816D1ZK,9932869998,ecofurnitureengineers@gmail.com,21,83,Active,1306,24540
+VEN0275,Prime Plumbing Facility Management,HVAC,Junagadh,3.9,Bronze,12,24PZGBQ1573B1ZU,9788982046,primeplumbingfacilitymanagement@gmail.com,21,85,Active,1696,35950
+VEN0276,Secure HVAC Associates,Landscaping,Valsad,4.1,Bronze,7,24IJSSM2495B1ZG,9228338593,securehvacassociates@gmail.com,145,82,Active,7596,109560
+VEN0277,Prime Electrical Engineers,Security,Anand,4.2,Silver,20,24BNILL3420O1ZH,9209255022,primeelectricalengineers@gmail.com,35,82,Active,6059,69850
+VEN0278,Modern Cleaning Associates,Furniture,Mehsana,3.9,Bronze,10,24HVRHS9977I1ZA,9723998706,moderncleaningassociates@gmail.com,43,92,Active,1739,61190
+VEN0279,Royal Furniture Facility Management,Landscaping,Valsad,4.3,Silver,25,24VICVL9448A1ZL,9183746324,royalfurniturefacilitymanagement@gmail.com,108,97,Active,2790,40900
+VEN0280,Shree Water Tank Cleaning Services,Plumbing,Mehsana,4.9,Gold,20,24QPPWZ2351D1ZK,9548015064,shreewatertankcleaningservices@gmail.com,52,86,Active,1218,29540
+VEN0281,Om HVAC Engineers,Painting,Vadodara,3.9,Bronze,16,24BNEWK1154C1ZM,9981247469,omhvacengineers@gmail.com,56,96,Active,2069,38050
+VEN0282,Urban Painting Facility Management,Plumbing,Valsad,3.6,Bronze,4,24VPGIO4400U1ZO,9387388416,urbanpaintingfacilitymanagement@gmail.com,115,94,Active,979,22800
+VEN0283,Green Plumbing Maintenance,Cleaning,Anand,3.7,Bronze,7,24HQHXS7249R1ZD,9901734254,greenplumbingmaintenance@gmail.com,23,94,Active,4475,36280
+VEN0284,Eco HVAC Services,Electrical,Jamnagar,3.6,Bronze,12,24RMLCR7442F1ZF,9861171602,ecohvacservices@gmail.com,117,91,Active,874,23890
+VEN0285,Crystal Furniture Services,Landscaping,Gandhinagar,4.8,Gold,16,24SVVQS8330A1ZB,9779320493,crystalfurnitureservices@gmail.com,54,82,Active,7912,118540
+VEN0286,Royal Electrical Enterprises,Cleaning,Patan,4.6,Silver,18,24CIOEF5912L1ZK,9143340863,royalelectricalenterprises@gmail.com,22,86,Active,2303,19170
+VEN0287,Skyline Painting Maintenance,Electrical,Bhavnagar,4.3,Silver,10,24YPZSR9636W1ZK,9960094575,skylinepaintingmaintenance@gmail.com,8,87,Active,1440,41720
+VEN0288,Shree Water Tank Cleaning Solutions,HVAC,Anand,4.0,Bronze,21,24CDMFJ6279O1ZX,9813707487,shreewatertankcleaningsolutions@gmail.com,63,90,Active,4989,105280
+VEN0289,Reliable Furniture Facility Management,Furniture,Anand,4.4,Silver,21,24WNEQB4909G1ZE,9058920737,reliablefurniturefacilitymanagement@gmail.com,67,93,Active,611,21220
+VEN0290,Crystal Water Tank Cleaning Facility Management,Water Tank Cleaning,Valsad,4.0,Bronze,22,24FWMYJ3446N1ZY,9194740935,crystalwatertankcleaningfacilitymanagement@gmail.com,146,85,Active,1417,11080
+VEN0291,A1 HVAC Care,Painting,Kutch,4.0,Bronze,19,24PBDME1057P1ZM,9999346540,a1hvaccare@gmail.com,36,92,Active,4130,70650
+VEN0292,Crystal Furniture Infra,Security,Morbi,4.9,Gold,22,24RSQYT2086V1ZA,9662462698,crystalfurnitureinfra@gmail.com,8,83,Active,9516,117290
+VEN0293,Om HVAC Infra,Electrical,Gandhinagar,4.6,Silver,15,24ELRNN8577X1ZC,9157822760,omhvacinfra@gmail.com,48,95,Active,701,19900
+VEN0294,Shree Electrical Solutions,HVAC,Patan,4.7,Gold,22,24HLEED4515G1ZF,9278198491,shreeelectricalsolutions@gmail.com,47,82,Active,1614,34660
+VEN0295,Gujarat Electrical Infra,Electrical,Mehsana,3.8,Bronze,2,24PMRCB7059D1ZG,9506979434,gujaratelectricalinfra@gmail.com,99,90,Active,2971,85190
+VEN0296,Reliable Furniture Works,HVAC,Surat,4.5,Silver,13,24WUAWK8901Q1ZI,9972468560,reliablefurnitureworks@gmail.com,87,80,Active,5628,124460
+VEN0297,Modern Cleaning Works,Furniture,Morbi,4.5,Silver,14,24TUJYY4661M1ZJ,9678877040,moderncleaningworks@gmail.com,145,94,Active,1812,62960
+VEN0298,Crystal Pest Control Solutions,Landscaping,Anand,4.3,Silver,9,24FTRCL7199Y1ZI,9224811570,crystalpestcontrolsolutions@gmail.com,90,87,Active,1241,17700
+VEN0299,Om Security Infra,HVAC,Patan,4.9,Gold,9,24FDCCT9713K1ZM,9500589336,omsecurityinfra@gmail.com,37,96,Active,1964,41370
+VEN0300,Royal Electrical Infra,Pest Control,Mehsana,3.6,Bronze,6,24VHFRD2788B1ZT,9356285622,royalelectricalinfra@gmail.com,101,81,Active,7888,49140
+VEN0301,Reliable Plumbing Facility Management,Furniture,Surat,4.8,Gold,7,24WSHVX1034P1ZL,9735261831,reliableplumbingfacilitymanagement@gmail.com,18,89,Active,1643,59830
+VEN0302,Urban Plumbing Maintenance,Pest Control,Navsari,3.8,Bronze,6,24FUFQJ8178M1ZN,9610349153,urbanplumbingmaintenance@gmail.com,116,84,Active,7252,43710
+VEN0303,Green Furniture Services,HVAC,Morbi,3.8,Bronze,11,24RYQJR7678U1ZM,9263104650,greenfurnitureservices@gmail.com,127,88,Active,3136,71300
+VEN0304,Metro Water Tank Cleaning Enterprises,HVAC,Navsari,4.1,Bronze,20,24DISWN4738Z1ZZ,9508586726,metrowatertankcleaningenterprises@gmail.com,35,85,Active,2562,56830
+VEN0305,Crystal Cleaning Associates,Security,Rajkot,4.2,Silver,3,24DFEOW0953R1ZF,9490395764,crystalcleaningassociates@gmail.com,130,90,Active,7158,82870
+VEN0306,Secure Security Maintenance,Furniture,Rajkot,4.4,Silver,23,24VGEHV9623E1ZX,9602394024,securesecuritymaintenance@gmail.com,41,97,Active,1094,36860
+VEN0307,Eco Electrical Engineers,Furniture,Junagadh,5.0,Gold,20,24RVPKD9406C1ZI,9115063328,ecoelectricalengineers@gmail.com,62,88,Active,1085,37250
+VEN0308,Shree Electrical Infra,Furniture,Kutch,5.0,Gold,5,24UDNWP8035J1ZR,9200371867,shreeelectricalinfra@gmail.com,146,99,Active,537,19540
+VEN0309,Green Pest Control Maintenance,Cleaning,Jamnagar,3.8,Bronze,23,24DJTBS9726W1ZO,9197524988,greenpestcontrolmaintenance@gmail.com,83,82,Active,4085,33650
+VEN0310,Om Electrical Solutions,Electrical,Bhavnagar,4.6,Silver,20,24BTOMW9457P1ZP,9598646977,omelectricalsolutions@gmail.com,141,91,Active,3996,115920
+VEN0311,Royal Landscaping Maintenance,Pest Control,Bhavnagar,3.7,Bronze,23,24YTXEJ1304F1ZL,9936888242,royallandscapingmaintenance@gmail.com,5,98,Active,780,4870
+VEN0312,Green Furniture Engineers,Landscaping,Surat,4.9,Gold,16,24XWBAL2137M1ZL,9041584907,greenfurnitureengineers@gmail.com,69,87,Active,3697,53850
+VEN0313,Elite HVAC Works,HVAC,Bhavnagar,4.0,Bronze,19,24VCLVE3438G1ZD,9103791146,elitehvacworks@gmail.com,73,83,Active,4304,92320
+VEN0314,Skyline Pest Control Associates,Plumbing,Mehsana,4.3,Silver,14,24NYVKC1015Y1ZV,9263974247,skylinepestcontrolassociates@gmail.com,68,99,Active,208,4790
+VEN0315,Prime Landscaping Enterprises,Electrical,Bharuch,3.9,Bronze,24,24GVFSV7519S1ZU,9621099460,primelandscapingenterprises@gmail.com,18,92,Active,1899,54660
+VEN0316,Skyline Landscaping Engineers,Furniture,Anand,4.6,Silver,12,24LBLBC3972B1ZF,9007249119,skylinelandscapingengineers@gmail.com,98,90,Active,643,23370
+VEN0317,Gujarat Electrical Solutions,Landscaping,Jamnagar,4.5,Silver,12,24JVTPP2250D1ZE,9660988140,gujaratelectricalsolutions@gmail.com,144,99,Active,13846,205750
+VEN0318,Reliable Painting Care,Furniture,Jamnagar,5.0,Gold,3,24DKSXT8533U1ZW,9144597129,reliablepaintingcare@gmail.com,79,81,Active,1707,60470
+VEN0319,Sai Furniture Infra,Landscaping,Vadodara,4.3,Silver,7,24LNOKP2055A1ZZ,9557282212,saifurnitureinfra@gmail.com,141,87,Active,8454,122430
+VEN0320,Gujarat Cleaning Enterprises,Painting,Jamnagar,4.9,Gold,10,24WBZZF1669K1ZC,9982182960,gujaratcleaningenterprises@gmail.com,96,87,Active,2836,53240
+VEN0321,Shree Landscaping Maintenance,HVAC,Bharuch,3.7,Bronze,22,24QOVFG5871H1ZX,9739011814,shreelandscapingmaintenance@gmail.com,51,89,Active,4665,106370
+VEN0322,Crystal HVAC Maintenance,Plumbing,Vadodara,3.9,Bronze,15,24GXZCN7863A1ZD,9876020160,crystalhvacmaintenance@gmail.com,7,83,Active,3053,76760
+VEN0323,Eco Plumbing Care,Pest Control,Bhavnagar,4.7,Gold,11,24IEBRQ1812Q1ZN,9190416283,ecoplumbingcare@gmail.com,33,95,Active,6284,38880
+VEN0324,Crystal Electrical Facility Management,Painting,Junagadh,3.7,Bronze,4,24QDYXX6155V1ZN,9163831969,crystalelectricalfacilitymanagement@gmail.com,24,80,Active,5052,94400
+VEN0325,Prime Plumbing Works,Pest Control,Morbi,3.8,Bronze,4,24CLSDI1734P1ZW,9966199355,primeplumbingworks@gmail.com,131,97,Active,5722,32700
+VEN0326,Sunrise Furniture Infra,HVAC,Anand,3.7,Bronze,24,24CJFWJ4119L1ZY,9821899280,sunrisefurnitureinfra@gmail.com,40,83,Active,7085,159560
+VEN0327,Skyline Security Services,Water Tank Cleaning,Vadodara,4.6,Silver,17,24VWAJC0581F1ZP,9776243762,skylinesecurityservices@gmail.com,44,81,Active,4786,37650
+VEN0328,Secure Plumbing Services,HVAC,Valsad,4.2,Silver,19,24SGOHF9203E1ZX,9262175884,secureplumbingservices@gmail.com,85,92,Active,2468,56640
+VEN0329,Green Plumbing Services,HVAC,Gandhinagar,4.7,Gold,10,24CCPWA2505Y1ZJ,9129205094,greenplumbingservices@gmail.com,17,90,Active,2755,62440
+VEN0330,Modern Painting Infra,Security,Kutch,4.3,Silver,25,24JDRIX5570Z1ZM,9480160692,modernpaintinginfra@gmail.com,60,84,Active,5361,66670
+VEN0331,Crystal Landscaping Associates,Water Tank Cleaning,Mehsana,5.0,Gold,16,24UIJWL8732T1ZT,9016481859,crystallandscapingassociates@gmail.com,27,95,Active,2583,21310
+VEN0332,Crystal Painting Enterprises,Water Tank Cleaning,Junagadh,3.7,Bronze,13,24CEUGM2861D1ZS,9432466456,crystalpaintingenterprises@gmail.com,85,91,Active,1279,9990
+VEN0333,Om HVAC Associates,Cleaning,Surat,4.2,Silver,25,24USOEC3582O1ZV,9046940799,omhvacassociates@gmail.com,115,86,Active,1299,10690
+VEN0334,Reliable Security Maintenance,Pest Control,Rajkot,4.3,Silver,10,24LOYDF5970Z1ZL,9792207421,reliablesecuritymaintenance@gmail.com,41,82,Active,6427,37050
+VEN0335,A1 HVAC Solutions,Pest Control,Patan,4.0,Bronze,18,24FXEBX4921N1ZP,9461636307,a1hvacsolutions@gmail.com,55,82,Active,2869,17850
+VEN0336,Prime Security Works,Pest Control,Jamnagar,3.6,Bronze,17,24WCZKN0481O1ZU,9902945133,primesecurityworks@gmail.com,53,98,Active,768,4770
+VEN0337,Secure Electrical Care,Pest Control,Patan,4.5,Silver,15,24JVLZI9435F1ZR,9426667990,secureelectricalcare@gmail.com,27,83,Active,710,4140
+VEN0338,Om Cleaning Maintenance,Electrical,Morbi,4.9,Gold,25,24TYCLP0242O1ZR,9314199487,omcleaningmaintenance@gmail.com,106,80,Active,2692,77760
+VEN0339,Modern Furniture Associates,Painting,Navsari,4.0,Bronze,15,24RAXAA7857K1ZK,9154536309,modernfurnitureassociates@gmail.com,114,84,Active,4405,78980
+VEN0340,Green Plumbing Infra,Landscaping,Bhavnagar,4.9,Gold,15,24GSDDP3798F1ZK,9204650790,greenplumbinginfra@gmail.com,102,80,Active,9238,135870
+VEN0341,Prime Pest Control Works,Furniture,Navsari,3.9,Bronze,8,24NGUUU6296U1ZS,9819112108,primepestcontrolworks@gmail.com,58,92,Active,1982,71420
+VEN0342,Metro Pest Control Services,Pest Control,Vadodara,4.2,Silver,8,24RJIXV1015T1ZB,9133950521,metropestcontrolservices@gmail.com,12,97,Active,7285,42520
+VEN0343,Shree Landscaping Associates,Furniture,Junagadh,4.7,Gold,5,24XADCR1210W1ZR,9648499218,shreelandscapingassociates@gmail.com,76,92,Active,1187,39570
+VEN0344,Metro Water Tank Cleaning Maintenance,Furniture,Morbi,4.0,Bronze,15,24WLTVQ6453U1ZC,9489246895,metrowatertankcleaningmaintenance@gmail.com,106,80,Active,422,14320
+VEN0345,Metro Plumbing Works,Plumbing,Junagadh,4.2,Silver,9,24BRJUD3034Z1ZK,9853651268,metroplumbingworks@gmail.com,24,98,Active,432,10190
+VEN0346,Skyline HVAC Works,Furniture,Gandhinagar,4.7,Gold,3,24UMZKD1335J1ZA,9689928489,skylinehvacworks@gmail.com,15,90,Active,1140,41350
+VEN0347,Metro HVAC Engineers,Security,Kutch,4.0,Bronze,4,24OIPKS4891L1ZT,9128198720,metrohvacengineers@gmail.com,99,97,Active,1812,22760
+VEN0348,Shree Cleaning Engineers,Cleaning,Rajkot,4.8,Gold,3,24YBIPV2114E1ZK,9878944155,shreecleaningengineers@gmail.com,130,88,Active,2322,18170
+VEN0349,Reliable Pest Control Facility Management,Painting,Vadodara,3.7,Bronze,13,24OWRTF0900G1ZO,9811255873,reliablepestcontrolfacilitymanagement@gmail.com,121,84,Active,1061,19370
+VEN0350,Secure Electrical Enterprises,Security,Kutch,3.9,Bronze,16,24WNUEH1386E1ZO,9872810642,secureelectricalenterprises@gmail.com,145,82,Active,1613,19160
+VEN0351,Modern HVAC Facility Management,Landscaping,Patan,3.8,Bronze,18,24ILJBJ9111I1ZQ,9651021185,modernhvacfacilitymanagement@gmail.com,66,82,Active,12062,189640
+VEN0352,Royal Water Tank Cleaning Infra,Electrical,Anand,4.1,Bronze,25,24VRMEF6720F1ZQ,9967861613,royalwatertankcleaninginfra@gmail.com,121,84,Active,3830,107630
+VEN0353,Reliable Cleaning Enterprises,Electrical,Bhavnagar,5.0,Gold,23,24TAJMA8400V1ZJ,9851103747,reliablecleaningenterprises@gmail.com,144,88,Active,1263,36920
+VEN0354,Elite Painting Works,Security,Navsari,4.2,Silver,24,24INRWV4256E1ZN,9861427937,elitepaintingworks@gmail.com,54,92,Active,7115,82100
+VEN0355,Metro Painting Associates,Pest Control,Bhavnagar,4.9,Gold,10,24XJIPY2157T1ZD,9449729464,metropaintingassociates@gmail.com,43,96,Active,1282,8050
+VEN0356,Gujarat Water Tank Cleaning Associates,Painting,Morbi,4.5,Silver,11,24BHLFV1403A1ZB,9232867102,gujaratwatertankcleaningassociates@gmail.com,55,93,Active,5166,90000
+VEN0357,Sai Pest Control Works,HVAC,Patan,3.9,Bronze,14,24ZCGHI5635V1ZY,9115305653,saipestcontrolworks@gmail.com,116,83,Active,3216,74020
+VEN0358,Prime Landscaping Care,Landscaping,Junagadh,4.6,Silver,16,24JMYLX0701J1ZZ,9251552734,primelandscapingcare@gmail.com,6,94,Active,10485,153590
+VEN0359,Secure Pest Control Services,Painting,Rajkot,3.7,Bronze,12,24PVORW1557W1ZG,9559186167,securepestcontrolservices@gmail.com,6,95,Active,5370,92870
+VEN0360,Eco Electrical Solutions,Water Tank Cleaning,Rajkot,3.6,Bronze,18,24CFMVL0149H1ZR,9264611017,ecoelectricalsolutions@gmail.com,66,85,Active,1125,8940
+VEN0361,Secure Landscaping Facility Management,Painting,Navsari,4.3,Silver,23,24CPJHK7481J1ZO,9135066493,securelandscapingfacilitymanagement@gmail.com,40,94,Active,5573,102610
+VEN0362,Urban Painting Services,Security,Gandhinagar,5.0,Gold,13,24XNNED6548E1ZI,9769084961,urbanpaintingservices@gmail.com,134,96,Active,1843,21700
+VEN0363,A1 Plumbing Works,Water Tank Cleaning,Junagadh,4.4,Silver,20,24QKBWE0194Y1ZH,9987281874,a1plumbingworks@gmail.com,21,81,Active,4234,34230
+VEN0364,A1 Electrical Services,Electrical,Valsad,4.8,Gold,13,24PVYIS3951I1ZP,9422188156,a1electricalservices@gmail.com,29,86,Active,2992,83870
+VEN0365,Sai Plumbing Services,HVAC,Vadodara,4.1,Bronze,12,24ESXQM8543T1ZR,9884685151,saiplumbingservices@gmail.com,132,87,Active,5981,130070
+VEN0366,Sai Water Tank Cleaning Associates,Furniture,Navsari,4.1,Bronze,10,24KJWEH5256J1ZM,9658599604,saiwatertankcleaningassociates@gmail.com,56,90,Active,1257,44330
+VEN0367,Sai Plumbing Facility Management,Security,Surat,4.4,Silver,9,24MUOPV8304X1ZT,9984171423,saiplumbingfacilitymanagement@gmail.com,127,89,Active,9065,106110
+VEN0368,Royal Cleaning Services,Furniture,Kutch,3.6,Bronze,23,24RAMKJ1751D1ZT,9931402527,royalcleaningservices@gmail.com,142,98,Active,747,26690
+VEN0369,Sai Cleaning Facility Management,Electrical,Surat,4.7,Gold,6,24LHIPX9136V1ZC,9092788843,saicleaningfacilitymanagement@gmail.com,98,97,Active,1368,36400
+VEN0370,A1 Security Associates,Cleaning,Junagadh,4.3,Silver,15,24SQHFD9272L1ZX,9819664140,a1securityassociates@gmail.com,76,98,Active,2473,20630
+VEN0371,Green Painting Solutions,Water Tank Cleaning,Kutch,3.7,Bronze,17,24AJLFJ6560Y1ZL,9997382720,greenpaintingsolutions@gmail.com,116,93,Active,3373,27090
+VEN0372,Sai Electrical Associates,Painting,Valsad,4.1,Bronze,15,24OONEJ7910Z1ZV,9902533636,saielectricalassociates@gmail.com,8,83,Active,2455,45160
+VEN0373,Gujarat Water Tank Cleaning Works,Plumbing,Valsad,4.8,Gold,16,24AAAJQ5450T1ZR,9301728161,gujaratwatertankcleaningworks@gmail.com,17,87,Active,1287,31640
+VEN0374,Metro Cleaning Enterprises,Pest Control,Mehsana,4.6,Silver,3,24OFYZZ0885B1ZT,9215102586,metrocleaningenterprises@gmail.com,23,93,Active,3542,21610
+VEN0375,Gujarat Plumbing Services,Security,Mehsana,4.1,Bronze,15,24XJYHA3215D1ZT,9237777935,gujaratplumbingservices@gmail.com,43,92,Active,2644,31300
+VEN0376,Om Electrical Facility Management,Water Tank Cleaning,Patan,4.4,Silver,19,24TWNBM5428J1ZH,9379239649,omelectricalfacilitymanagement@gmail.com,109,91,Active,3257,24940
+VEN0377,Om Security Associates,Security,Morbi,4.3,Silver,21,24FUFVZ9296V1ZE,9673145148,omsecurityassociates@gmail.com,55,85,Active,7991,97470
+VEN0378,Sunrise Pest Control Solutions,Cleaning,Patan,3.8,Bronze,2,24RZDWX9345W1ZJ,9188569073,sunrisepestcontrolsolutions@gmail.com,119,93,Active,3390,26660
+VEN0379,Urban HVAC Engineers,Plumbing,Bhavnagar,4.7,Gold,25,24TXYCX5363O1ZF,9559023585,urbanhvacengineers@gmail.com,114,89,Active,3279,77230
+VEN0380,Crystal Plumbing Services,Furniture,Patan,4.7,Gold,18,24HWIJE2421I1ZT,9796128709,crystalplumbingservices@gmail.com,143,97,Active,248,8980
+VEN0381,Eco Cleaning Care,Cleaning,Junagadh,4.8,Gold,8,24HYLLD4979D1ZO,9840126987,ecocleaningcare@gmail.com,61,82,Active,876,7160
+VEN0382,Reliable Plumbing Associates,Pest Control,Vadodara,4.1,Bronze,24,24RXACS5158U1ZB,9962582144,reliableplumbingassociates@gmail.com,52,95,Active,4054,23840
+VEN0383,Gujarat Plumbing Facility Management,Electrical,Gandhinagar,4.5,Silver,2,24LMPSB6662L1ZP,9598886465,gujaratplumbingfacilitymanagement@gmail.com,144,95,Active,2844,78110
+VEN0384,Gujarat Electrical Facility Management,Painting,Patan,3.8,Bronze,16,24IRDMI1677P1ZZ,9866022845,gujaratelectricalfacilitymanagement@gmail.com,87,88,Active,5112,91170
+VEN0385,Reliable HVAC Infra,HVAC,Kutch,4.7,Gold,10,24XGSIV3451G1ZY,9696360780,reliablehvacinfra@gmail.com,90,91,Active,2019,43980
+VEN0386,Sunrise Electrical Services,Security,Gandhinagar,4.3,Silver,7,24VKSHE3452A1ZB,9875570206,sunriseelectricalservices@gmail.com,68,81,Active,1700,19980
+VEN0387,A1 Electrical Infra,Plumbing,Bharuch,4.5,Silver,4,24BNSTA7590S1ZZ,9388747340,a1electricalinfra@gmail.com,125,92,Active,2402,55500
+VEN0388,Gujarat HVAC Solutions,HVAC,Bharuch,3.9,Bronze,17,24HSNJZ7977O1ZH,9507441316,gujarathvacsolutions@gmail.com,26,83,Active,2946,64300
+VEN0389,Sunrise Plumbing Facility Management,Pest Control,Anand,4.8,Gold,4,24DQMSO2723K1ZE,9065822544,sunriseplumbingfacilitymanagement@gmail.com,65,90,Active,4444,27840
+VEN0390,Urban Pest Control Associates,Electrical,Rajkot,4.4,Silver,15,24SJTET1490N1ZP,9184753242,urbanpestcontrolassociates@gmail.com,74,96,Active,1386,39500
+VEN0391,Reliable Water Tank Cleaning Works,Plumbing,Jamnagar,4.4,Silver,11,24NFPSN2499X1ZE,9174314907,reliablewatertankcleaningworks@gmail.com,56,83,Active,742,18530
+VEN0392,Sunrise Pest Control Works,Water Tank Cleaning,Valsad,3.7,Bronze,21,24EJOFQ9288S1ZX,9364256017,sunrisepestcontrolworks@gmail.com,76,85,Active,3659,29610
+VEN0393,Prime Landscaping Maintenance,HVAC,Mehsana,4.5,Silver,20,24UPHUW6417G1ZC,9961400918,primelandscapingmaintenance@gmail.com,113,95,Active,1763,38010
+VEN0394,Reliable Painting Associates,Furniture,Kutch,4.7,Gold,14,24USJVI0621U1ZI,9785476543,reliablepaintingassociates@gmail.com,11,91,Active,1900,66820
+VEN0395,Urban Security Infra,Landscaping,Gandhinagar,3.9,Bronze,14,24JYZFJ1539I1ZQ,9960240626,urbansecurityinfra@gmail.com,12,95,Active,5002,71280
+VEN0396,Elite Landscaping Solutions,Cleaning,Jamnagar,3.7,Bronze,24,24TWDKV0600R1ZI,9916088379,elitelandscapingsolutions@gmail.com,98,96,Active,3827,29960
+VEN0397,Shree HVAC Infra,Cleaning,Vadodara,4.8,Gold,8,24VNSCL2151X1ZA,9351480909,shreehvacinfra@gmail.com,51,82,Active,3134,24900
+VEN0398,Crystal Security Maintenance,Cleaning,Bhavnagar,4.5,Silver,2,24FJCSG8691Y1ZX,9107113218,crystalsecuritymaintenance@gmail.com,50,89,Active,2092,16870
+VEN0399,A1 Pest Control Engineers,Security,Junagadh,3.7,Bronze,13,24UNVRE9515W1ZN,9387265870,a1pestcontrolengineers@gmail.com,58,88,Active,7679,93570
+VEN0400,Eco Pest Control Engineers,Electrical,Bhavnagar,3.6,Bronze,17,24DPJJP0768A1ZF,9436193410,ecopestcontrolengineers@gmail.com,121,98,Active,3715,103660
+VEN0401,Skyline HVAC Care,Painting,Junagadh,4.8,Gold,21,24IRHZW7954Y1ZI,9940598991,skylinehvaccare@gmail.com,150,84,Active,4950,88580
+VEN0402,Prime Security Services,Painting,Jamnagar,5.0,Gold,13,24LEADW3022C1ZX,9268343466,primesecurityservices@gmail.com,125,92,Active,2978,52070
+VEN0403,Urban Furniture Solutions,Security,Jamnagar,4.1,Bronze,14,24UXVSL3047S1ZA,9267338679,urbanfurnituresolutions@gmail.com,63,84,Active,9166,109700
+VEN0404,Eco Painting Infra,HVAC,Bhavnagar,3.7,Bronze,15,24DIRMG9135D1ZO,9837648115,ecopaintinginfra@gmail.com,121,80,Active,1264,28920
+VEN0405,Elite HVAC Infra,Painting,Patan,4.7,Gold,10,24TDUXN7789D1ZZ,9147800972,elitehvacinfra@gmail.com,136,99,Active,5971,110660
+VEN0406,Metro Pest Control Care,Water Tank Cleaning,Junagadh,4.1,Bronze,10,24LRTAG2442B1ZT,9175315114,metropestcontrolcare@gmail.com,75,91,Active,3252,25160
+VEN0407,Urban Water Tank Cleaning Facility Management,Landscaping,Valsad,4.9,Gold,3,24BJDZQ8390U1ZX,9341777099,urbanwatertankcleaningfacilitymanagement@gmail.com,54,98,Active,11868,170630
+VEN0408,A1 Painting Maintenance,Furniture,Surat,4.3,Silver,13,24OFYHR1503F1ZV,9202762476,a1paintingmaintenance@gmail.com,29,87,Active,312,10940
+VEN0409,Royal Cleaning Works,Water Tank Cleaning,Navsari,3.9,Bronze,25,24SVPQI3903L1ZO,9184513465,royalcleaningworks@gmail.com,25,95,Active,1900,15400
+VEN0410,Eco Landscaping Works,Security,Valsad,4.0,Bronze,23,24MEPQO4772X1ZP,9935391321,ecolandscapingworks@gmail.com,79,85,Active,4833,57040
+VEN0411,Crystal HVAC Associates,Furniture,Patan,4.2,Silver,21,24HUQRR6655H1ZM,9448491253,crystalhvacassociates@gmail.com,123,85,Active,336,12130
+VEN0412,Metro HVAC Maintenance,HVAC,Patan,4.5,Silver,8,24QQDQZ5793H1ZF,9540378658,metrohvacmaintenance@gmail.com,46,94,Active,2076,46820
+VEN0413,Modern Furniture Enterprises,Furniture,Mehsana,4.3,Silver,6,24HXFLG6979Q1ZU,9163914900,modernfurnitureenterprises@gmail.com,109,96,Active,1620,57680
+VEN0414,Elite HVAC Solutions,Painting,Rajkot,4.7,Gold,24,24UQNAM7238Y1ZB,9375641128,elitehvacsolutions@gmail.com,33,85,Active,5032,88080
+VEN0415,Modern HVAC Works,Furniture,Morbi,3.8,Bronze,8,24GISLS7736K1ZZ,9422015085,modernhvacworks@gmail.com,79,89,Active,418,14190
+VEN0416,Crystal Water Tank Cleaning Engineers,Pest Control,Navsari,4.3,Silver,6,24TSDHJ6023S1ZA,9277946131,crystalwatertankcleaningengineers@gmail.com,133,90,Active,2531,14460
+VEN0417,Secure Security Infra,Pest Control,Bhavnagar,4.8,Gold,18,24MMJRB2216X1ZZ,9114560787,securesecurityinfra@gmail.com,63,86,Active,2608,15250
+VEN0418,Metro Security Associates,Landscaping,Vadodara,3.7,Bronze,3,24LNGUE9827F1ZB,9922779913,metrosecurityassociates@gmail.com,58,87,Active,10909,163230
+VEN0419,Royal Water Tank Cleaning Maintenance,Electrical,Surat,4.3,Silver,12,24UBMLM0552A1ZS,9497465679,royalwatertankcleaningmaintenance@gmail.com,69,93,Active,1162,33670
+VEN0420,A1 Pest Control Enterprises,Pest Control,Navsari,4.1,Bronze,22,24HWGHO3499P1ZA,9394104394,a1pestcontrolenterprises@gmail.com,142,85,Active,6178,35480
+VEN0421,Eco Electrical Facility Management,Landscaping,Navsari,3.9,Bronze,12,24TMRYF6313F1ZF,9619967729,ecoelectricalfacilitymanagement@gmail.com,125,89,Active,6617,98410
+VEN0422,Modern Plumbing Engineers,Security,Mehsana,4.1,Bronze,16,24IOTAY0461O1ZY,9282628043,modernplumbingengineers@gmail.com,147,97,Active,3835,46620
+VEN0423,Eco Furniture Maintenance,Painting,Rajkot,4.3,Silver,4,24GIMSM9066W1ZP,9295003542,ecofurnituremaintenance@gmail.com,125,84,Active,5695,99380
+VEN0424,Sunrise Electrical Care,Water Tank Cleaning,Bharuch,3.9,Bronze,19,24NHAUB7738Y1ZO,9723231926,sunriseelectricalcare@gmail.com,10,84,Active,2962,24160
+VEN0425,Green Pest Control Services,Cleaning,Junagadh,4.8,Gold,2,24OZYWI5230C1ZS,9051158546,greenpestcontrolservices@gmail.com,53,82,Active,4940,39500
+VEN0426,Skyline Painting Care,Plumbing,Mehsana,4.2,Silver,4,24EOLUT9842T1ZM,9024226346,skylinepaintingcare@gmail.com,95,98,Active,2201,51470
+VEN0427,Prime Furniture Enterprises,Plumbing,Rajkot,3.9,Bronze,2,24NYBDJ0896G1ZJ,9192970891,primefurnitureenterprises@gmail.com,101,80,Active,1228,29930
+VEN0428,Urban Furniture Infra,Pest Control,Kutch,3.7,Bronze,8,24FJVCE9717D1ZP,9739420545,urbanfurnitureinfra@gmail.com,121,80,Active,7716,44010
+VEN0429,Green Electrical Works,Painting,Vadodara,4.1,Bronze,15,24YQFSQ8809X1ZU,9808105140,greenelectricalworks@gmail.com,58,89,Active,916,16900
+VEN0430,Modern Water Tank Cleaning Infra,HVAC,Bhavnagar,4.8,Gold,7,24YZTVE8114J1ZM,9692373808,modernwatertankcleaninginfra@gmail.com,109,81,Active,1956,44190
+VEN0431,Sunrise HVAC Maintenance,Plumbing,Bhavnagar,4.6,Silver,5,24AXCZC4985E1ZT,9804823596,sunrisehvacmaintenance@gmail.com,29,95,Active,2798,64510
+VEN0432,Elite Water Tank Cleaning Facility Management,Landscaping,Jamnagar,3.8,Bronze,6,24FCCKX1216K1ZW,9965587146,elitewatertankcleaningfacilitymanagement@gmail.com,13,92,Active,7939,118190
+VEN0433,Sai Furniture Enterprises,Cleaning,Anand,3.6,Bronze,7,24KAMWE8949O1ZT,9247653913,saifurnitureenterprises@gmail.com,129,97,Active,3066,23730
+VEN0434,Urban Electrical Works,Painting,Vadodara,4.7,Gold,13,24LAOCZ8171L1ZJ,9459991885,urbanelectricalworks@gmail.com,41,87,Active,861,16210
+VEN0435,Shree Furniture Works,Plumbing,Surat,4.3,Silver,19,24JFYNJ1166Y1ZW,9196829929,shreefurnitureworks@gmail.com,112,95,Active,214,5150
+VEN0436,Urban Security Enterprises,Painting,Ahmedabad,4.6,Silver,4,24GOIXP9041F1ZY,9999314523,urbansecurityenterprises@gmail.com,62,88,Active,3232,55560
+VEN0437,Prime Furniture Care,Painting,Mehsana,3.8,Bronze,2,24QNNUP2485T1ZO,9187789082,primefurniturecare@gmail.com,124,93,Active,1571,27570
+VEN0438,Crystal Pest Control Engineers,Electrical,Vadodara,3.9,Bronze,25,24PPJWR8946Y1ZI,9879636230,crystalpestcontrolengineers@gmail.com,129,87,Active,2909,84290
+VEN0439,Elite Furniture Maintenance,Painting,Rajkot,4.2,Silver,24,24MPOPW6018U1ZD,9517369437,elitefurnituremaintenance@gmail.com,93,94,Active,2645,47400
+VEN0440,Urban Water Tank Cleaning Associates,HVAC,Patan,3.7,Bronze,23,24XFEQI2404I1ZL,9839240492,urbanwatertankcleaningassociates@gmail.com,46,86,Active,2523,57180
+VEN0441,Sunrise Landscaping Works,Security,Bhavnagar,4.6,Silver,17,24WIQTV2817U1ZM,9341327388,sunriselandscapingworks@gmail.com,45,85,Active,7739,94420
+VEN0442,Reliable Cleaning Solutions,Painting,Navsari,3.9,Bronze,19,24NKSFC5842W1ZK,9539198825,reliablecleaningsolutions@gmail.com,26,90,Active,5019,94750
+VEN0443,Royal Pest Control Services,Plumbing,Bharuch,3.9,Bronze,2,24MVZGF6202A1ZT,9445911535,royalpestcontrolservices@gmail.com,104,88,Active,3090,74870
+VEN0444,Modern Security Facility Management,Security,Vadodara,4.0,Bronze,24,24DWZGN1975P1ZR,9386776594,modernsecurityfacilitymanagement@gmail.com,18,94,Active,7507,94140
+VEN0445,Urban Pest Control Maintenance,Plumbing,Ahmedabad,4.2,Silver,19,24LQXMS0392I1ZX,9054713636,urbanpestcontrolmaintenance@gmail.com,82,90,Active,2497,62270
+VEN0446,Royal Water Tank Cleaning Associates,Plumbing,Mehsana,4.9,Gold,2,24ZBTPU0041G1ZH,9979809730,royalwatertankcleaningassociates@gmail.com,108,98,Active,239,5800
+VEN0447,Green HVAC Infra,Plumbing,Mehsana,4.6,Silver,7,24CJSWM1429U1ZC,9375069031,greenhvacinfra@gmail.com,140,80,Active,658,16140
+VEN0448,Shree Security Infra,Water Tank Cleaning,Junagadh,4.0,Bronze,4,24YEQEF3895S1ZF,9878118005,shreesecurityinfra@gmail.com,35,89,Active,1416,11330
+VEN0449,Gujarat Electrical Works,Water Tank Cleaning,Bhavnagar,4.6,Silver,5,24MPZXY9534D1ZV,9533281439,gujaratelectricalworks@gmail.com,127,98,Active,2021,16700
+VEN0450,Metro Landscaping Solutions,Security,Kutch,4.5,Silver,19,24QHDTH6434P1ZD,9343472608,metrolandscapingsolutions@gmail.com,53,82,Active,9438,113800
+VEN0451,Gujarat Water Tank Cleaning Maintenance,Security,Surat,4.4,Silver,19,24AZKJN8645F1ZQ,9369098702,gujaratwatertankcleaningmaintenance@gmail.com,57,98,Active,1090,13600
+VEN0452,Shree Cleaning Infra,Electrical,Navsari,3.9,Bronze,2,24XRXIE3294E1ZE,9562967939,shreecleaninginfra@gmail.com,74,93,Active,3718,106640
+VEN0453,Green Painting Facility Management,Pest Control,Bharuch,4.7,Gold,21,24ASBTD6011Z1ZP,9051797622,greenpaintingfacilitymanagement@gmail.com,150,88,Active,3324,19890
+VEN0454,Metro Electrical Infra,Furniture,Vadodara,4.8,Gold,19,24WFNAM1030W1ZZ,9043747659,metroelectricalinfra@gmail.com,58,90,Active,1292,44130
+VEN0455,Sai Water Tank Cleaning Services,Security,Bharuch,4.9,Gold,7,24JFQKD2011V1ZX,9480255190,saiwatertankcleaningservices@gmail.com,21,93,Active,9552,111730
+VEN0456,Secure Landscaping Services,Plumbing,Mehsana,4.5,Silver,13,24AXRAA0358Y1ZU,9050845363,securelandscapingservices@gmail.com,65,95,Active,806,19610
+VEN0457,A1 Security Care,Plumbing,Valsad,4.3,Silver,19,24WFHTZ3217N1ZZ,9204889162,a1securitycare@gmail.com,108,93,Active,1960,48290
+VEN0458,Urban HVAC Care,Security,Kutch,4.1,Bronze,6,24SFFEF8669R1ZY,9733345499,urbanhvaccare@gmail.com,110,81,Active,2588,31120
+VEN0459,Sunrise Plumbing Infra,HVAC,Bhavnagar,4.9,Gold,16,24AFOEZ6765Z1ZG,9132774675,sunriseplumbinginfra@gmail.com,14,83,Active,1542,34350
+VEN0460,Om Electrical Services,Cleaning,Mehsana,3.6,Bronze,4,24IXFDF8395O1ZP,9313818119,omelectricalservices@gmail.com,109,85,Active,3325,26000
+VEN0461,Sunrise Landscaping Care,Painting,Anand,4.6,Silver,5,24RDLTD3310W1ZL,9951899589,sunriselandscapingcare@gmail.com,99,82,Active,3487,60110
+VEN0462,Crystal Plumbing Maintenance,HVAC,Jamnagar,4.0,Bronze,5,24ZURZI7906Z1ZP,9084181259,crystalplumbingmaintenance@gmail.com,130,90,Active,7721,166220
+VEN0463,Crystal Cleaning Facility Management,Painting,Valsad,4.6,Silver,15,24IHZRR3089A1ZX,9531436233,crystalcleaningfacilitymanagement@gmail.com,136,93,Active,826,14530
+VEN0464,Skyline Security Enterprises,Painting,Gandhinagar,4.9,Gold,17,24HCLRU9880E1ZZ,9721052007,skylinesecurityenterprises@gmail.com,92,99,Active,3431,60640
+VEN0465,Om Plumbing Maintenance,Pest Control,Mehsana,4.5,Silver,23,24CDSFT0090Z1ZV,9200354196,omplumbingmaintenance@gmail.com,52,95,Active,2020,12170
+VEN0466,Gujarat Water Tank Cleaning Services,Landscaping,Ahmedabad,4.2,Silver,4,24EFDOZ6701K1ZY,9916565248,gujaratwatertankcleaningservices@gmail.com,66,96,Active,12174,176010
+VEN0467,Crystal Electrical Services,Security,Surat,3.7,Bronze,21,24TLRXL9637L1ZW,9660284744,crystalelectricalservices@gmail.com,130,90,Active,4588,53580
+VEN0468,Sunrise Furniture Facility Management,Cleaning,Junagadh,4.4,Silver,15,24MMYWZ4841Y1ZM,9401396307,sunrisefurniturefacilitymanagement@gmail.com,49,84,Active,1642,13390
+VEN0469,Prime Painting Works,Pest Control,Kutch,3.9,Bronze,7,24HYOFM7491V1ZB,9319761542,primepaintingworks@gmail.com,130,80,Active,3197,19580
+VEN0470,Gujarat Plumbing Works,Water Tank Cleaning,Patan,4.5,Silver,21,24DDHSU8390O1ZL,9423283997,gujaratplumbingworks@gmail.com,147,90,Active,4129,31590
+VEN0471,Reliable Furniture Enterprises,Water Tank Cleaning,Anand,5.0,Gold,24,24PGVMM0507T1ZK,9046892477,reliablefurnitureenterprises@gmail.com,75,84,Active,2066,16380
+VEN0472,Modern Cleaning Care,Cleaning,Mehsana,3.9,Bronze,13,24VMDHI9658U1ZG,9951771727,moderncleaningcare@gmail.com,113,80,Active,2739,22010
+VEN0473,Gujarat Painting Facility Management,Cleaning,Ahmedabad,3.8,Bronze,22,24QKJUZ4314K1ZD,9941625300,gujaratpaintingfacilitymanagement@gmail.com,88,97,Active,2131,16900
+VEN0474,Elite Security Enterprises,HVAC,Ahmedabad,4.0,Bronze,22,24LIEPT6370Q1ZB,9774911170,elitesecurityenterprises@gmail.com,97,91,Active,7752,165540
+VEN0475,Reliable Electrical Care,Cleaning,Patan,4.2,Silver,22,24USOCF1782B1ZU,9606640799,reliableelectricalcare@gmail.com,40,96,Active,2250,17860
+VEN0476,Reliable Security Infra,HVAC,Ahmedabad,4.7,Gold,18,24TMRSO0525A1ZL,9753812597,reliablesecurityinfra@gmail.com,77,88,Active,4577,104770
+VEN0477,Sunrise Security Associates,Furniture,Bharuch,4.1,Bronze,12,24FXKQL4967G1ZF,9131927726,sunrisesecurityassociates@gmail.com,59,98,Active,150,5290
+VEN0478,Gujarat Security Care,Furniture,Bharuch,3.7,Bronze,8,24NIFEI4774M1ZT,9794576901,gujaratsecuritycare@gmail.com,5,80,Active,467,16660
+VEN0479,Sai Cleaning Engineers,Painting,Valsad,4.9,Gold,14,24SYCJQ9732U1ZA,9201149991,saicleaningengineers@gmail.com,12,95,Active,3221,60050
+VEN0480,Crystal Cleaning Solutions,Furniture,Valsad,3.7,Bronze,20,24SHAOB6233B1ZP,9441086987,crystalcleaningsolutions@gmail.com,127,86,Active,1702,61150
+VEN0481,A1 Cleaning Engineers,Furniture,Anand,4.9,Gold,24,24LAQWV4942X1ZB,9203853975,a1cleaningengineers@gmail.com,87,91,Active,943,32610
+VEN0482,Skyline Plumbing Maintenance,Pest Control,Junagadh,4.2,Silver,11,24DRXRK9021L1ZU,9478105865,skylineplumbingmaintenance@gmail.com,143,85,Active,6871,39190
+VEN0483,Prime Furniture Infra,HVAC,Rajkot,3.7,Bronze,18,24ONOGO9767P1ZD,9383958234,primefurnitureinfra@gmail.com,32,87,Active,6687,144930
+VEN0484,Shree Landscaping Solutions,Electrical,Navsari,4.3,Silver,9,24THFQY1022Y1ZV,9029434633,shreelandscapingsolutions@gmail.com,58,89,Active,3839,110220
+VEN0485,Skyline Water Tank Cleaning Maintenance,Water Tank Cleaning,Surat,4.9,Gold,23,24MAIAS8350W1ZS,9639400494,skylinewatertankcleaningmaintenance@gmail.com,144,82,Active,2832,23460
+VEN0486,Om Furniture Solutions,Security,Anand,4.2,Silver,21,24ZAIUW2401V1ZY,9050125857,omfurnituresolutions@gmail.com,69,98,Active,4871,61100
+VEN0487,Prime Electrical Facility Management,Furniture,Ahmedabad,4.3,Silver,14,24UUXUB1368H1ZW,9479117954,primeelectricalfacilitymanagement@gmail.com,98,93,Active,426,14790
+VEN0488,Shree Landscaping Works,Electrical,Patan,4.5,Silver,17,24ALSBC8645H1ZE,9115649320,shreelandscapingworks@gmail.com,52,98,Active,3525,101140
+VEN0489,Skyline Electrical Associates,Furniture,Jamnagar,3.7,Bronze,11,24DSABU1650Z1ZE,9324264215,skylineelectricalassociates@gmail.com,143,82,Active,1536,54010
+VEN0490,Prime Plumbing Associates,Electrical,Morbi,3.8,Bronze,18,24ZBEQK6984Y1ZN,9033173482,primeplumbingassociates@gmail.com,37,95,Active,742,20990
+VEN0491,Secure HVAC Enterprises,Landscaping,Navsari,3.9,Bronze,17,24ULABC8163M1ZI,9489353395,securehvacenterprises@gmail.com,103,98,Active,7267,105960
+VEN0492,Om Pest Control Works,Water Tank Cleaning,Vadodara,4.3,Silver,10,24QYWPF9321J1ZG,9854246781,ompestcontrolworks@gmail.com,80,86,Active,1117,8690
+VEN0493,Modern Landscaping Associates,Pest Control,Bhavnagar,4.0,Bronze,5,24SWQFU8164H1ZM,9425516298,modernlandscapingassociates@gmail.com,105,80,Active,7333,43720
+VEN0494,Om Furniture Engineers,Pest Control,Bharuch,4.9,Gold,18,24OFBLZ5431F1ZD,9380825279,omfurnitureengineers@gmail.com,113,86,Active,4155,23760
+VEN0495,Shree Electrical Works,Painting,Navsari,5.0,Gold,15,24GFPTY3205Y1ZH,9193501569,shreeelectricalworks@gmail.com,129,83,Active,2322,41110
+VEN0496,Metro Furniture Infra,Pest Control,Bhavnagar,3.9,Bronze,7,24XHARL8842C1ZN,9747363528,metrofurnitureinfra@gmail.com,130,93,Active,1934,11810
+VEN0497,Secure Security Works,Landscaping,Kutch,3.6,Bronze,16,24PJSPS3723M1ZI,9222640926,securesecurityworks@gmail.com,120,80,Active,14378,213610
+VEN0498,Green Water Tank Cleaning Works,Cleaning,Morbi,4.1,Bronze,15,24SXCGF3941S1ZU,9551030271,greenwatertankcleaningworks@gmail.com,146,81,Active,4570,35340
+VEN0499,A1 Electrical Associates,Pest Control,Jamnagar,4.9,Gold,11,24DLWEK1086S1ZU,9788724410,a1electricalassociates@gmail.com,55,99,Active,3164,18920
+VEN0500,Metro Pest Control Associates,Plumbing,Jamnagar,4.7,Gold,19,24YGAWT5050E1ZF,9011885221,metropestcontrolassociates@gmail.com,33,87,Active,1450,33500

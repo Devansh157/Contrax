@@ -1,0 +1,13 @@
+{
+  "model_name": "Smart Match Engine",
+  "top1_accuracy": 2.44,
+  "top3_accuracy": 6.03,
+  "features": [
+    "service_type",
+    "sub_service",
+    "district",
+    "priority",
+    "estimated_budget",
+    "rating"
+  ]
+}

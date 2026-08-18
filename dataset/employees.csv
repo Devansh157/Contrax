@@ -1,0 +1,251 @@
+employee_id,employee_name,department,role,district,experience_years,workload,email,mobile_number,status
+EMP0001,Vivaan Trivedi,Procurement,Field Officer,Rajkot,5,34,vivaan.trivedi1@company.com,9440438574,Active
+EMP0002,Harsh Patel,Finance,Supervisor,Rajkot,4,12,harsh.patel2@company.com,9181392105,Active
+EMP0003,Harsh Patel,Procurement,Manager,Rajkot,6,23,harsh.patel3@company.com,9986608467,Active
+EMP0004,Mehul Chauhan,Maintenance,Manager,Mehsana,15,15,mehul.chauhan4@company.com,9053169514,Active
+EMP0005,Nirav Mehta,Finance,Executive,Vadodara,2,35,nirav.mehta5@company.com,9368753645,Active
+EMP0006,Amit Patel,Maintenance,Field Officer,Ahmedabad,4,12,amit.patel6@company.com,9998374978,Active
+EMP0007,Krishna Shah,Customer Support,Supervisor,Kutch,2,10,krishna.shah7@company.com,9194548305,Active
+EMP0008,Neha Patel,Maintenance,Engineer,Gandhinagar,8,24,neha.patel8@company.com,9798305008,Active
+EMP0009,Sneha Chauhan,Administration,Engineer,Bharuch,17,12,sneha.chauhan9@company.com,9243212543,Active
+EMP0010,Raj Patel,Operations,Engineer,Mehsana,6,29,raj.patel10@company.com,9215610262,Active
+EMP0011,Dev Prajapati,Procurement,Supervisor,Ahmedabad,11,14,dev.prajapati11@company.com,9746262449,Active
+EMP0012,Ishita Prajapati,Customer Support,Coordinator,Vadodara,18,32,ishita.prajapati12@company.com,9296860186,Active
+EMP0013,Priya Desai,Operations,Engineer,Bhavnagar,7,38,priya.desai13@company.com,9442342183,Active
+EMP0014,Nirav Shah,Procurement,Engineer,Gandhinagar,13,33,nirav.shah14@company.com,9243925501,Active
+EMP0015,Amit Joshi,Maintenance,Field Officer,Gandhinagar,7,13,amit.joshi15@company.com,9249128851,Active
+EMP0016,Dhruv Trivedi,Operations,Supervisor,Kutch,17,21,dhruv.trivedi16@company.com,9056559074,Active
+EMP0017,Dev Trivedi,Finance,Field Officer,Vadodara,4,18,dev.trivedi17@company.com,9654930308,Active
+EMP0018,Mehul Joshi,Maintenance,Engineer,Rajkot,1,27,mehul.joshi18@company.com,9406089627,Active
+EMP0019,Vivaan Shah,Operations,Manager,Anand,4,24,vivaan.shah19@company.com,9231174597,Active
+EMP0020,Dhruv Modi,Administration,Field Officer,Gandhinagar,15,28,dhruv.modi20@company.com,9469858491,Active
+EMP0021,Raj Shah,Finance,Manager,Rajkot,15,9,raj.shah21@company.com,9089683492,Active
+EMP0022,Nirav Shah,Maintenance,Manager,Vadodara,13,10,nirav.shah22@company.com,9680071545,Active
+EMP0023,Aarav Modi,Procurement,Engineer,Patan,19,25,aarav.modi23@company.com,9547000285,Active
+EMP0024,Aarav Modi,Operations,Manager,Kutch,15,24,aarav.modi24@company.com,9323372135,Active
+EMP0025,Karan Shah,Administration,Supervisor,Rajkot,16,27,karan.shah25@company.com,9441672613,Active
+EMP0026,Karan Shah,Administration,Field Officer,Valsad,20,37,karan.shah26@company.com,9797768780,Active
+EMP0027,Aarav Joshi,Customer Support,Engineer,Mehsana,10,17,aarav.joshi27@company.com,9154409236,Active
+EMP0028,Aarav Parmar,Operations,Engineer,Jamnagar,17,16,aarav.parmar28@company.com,9819312602,Active
+EMP0029,Rahul Prajapati,Maintenance,Manager,Kutch,17,7,rahul.prajapati29@company.com,9275567066,Active
+EMP0030,Dev Prajapati,Technical,Manager,Jamnagar,19,9,dev.prajapati30@company.com,9143019569,Active
+EMP0031,Rahul Modi,Maintenance,Supervisor,Bhavnagar,11,6,rahul.modi31@company.com,9837846395,Active
+EMP0032,Priya Desai,Administration,Executive,Kutch,14,40,priya.desai32@company.com,9822282986,Active
+EMP0033,Raj Mehta,Procurement,Engineer,Gandhinagar,2,6,raj.mehta33@company.com,9238738031,Active
+EMP0034,Amit Patel,Technical,Engineer,Vadodara,19,32,amit.patel34@company.com,9927847397,Active
+EMP0035,Pooja Mehta,Customer Support,Engineer,Vadodara,18,27,pooja.mehta35@company.com,9438345086,Active
+EMP0036,Vivaan Desai,Procurement,Supervisor,Patan,4,29,vivaan.desai36@company.com,9491857891,Active
+EMP0037,Ananya Desai,Procurement,Coordinator,Mehsana,1,40,ananya.desai37@company.com,9144046007,Active
+EMP0038,Karan Chauhan,Maintenance,Engineer,Anand,15,22,karan.chauhan38@company.com,9297857561,Active
+EMP0039,Karan Modi,Administration,Coordinator,Valsad,5,28,karan.modi39@company.com,9589104031,Active
+EMP0040,Harsh Chauhan,Maintenance,Coordinator,Valsad,2,29,harsh.chauhan40@company.com,9519421599,Active
+EMP0041,Harsh Trivedi,Procurement,Executive,Ahmedabad,9,36,harsh.trivedi41@company.com,9400186962,Active
+EMP0042,Rahul Patel,Technical,Supervisor,Ahmedabad,9,31,rahul.patel42@company.com,9128645800,Active
+EMP0043,Aarav Desai,Procurement,Coordinator,Kutch,11,18,aarav.desai43@company.com,9760344614,Active
+EMP0044,Mehul Desai,Finance,Manager,Jamnagar,7,30,mehul.desai44@company.com,9767783128,Active
+EMP0045,Raj Mehta,Finance,Field Officer,Junagadh,2,5,raj.mehta45@company.com,9817330337,Active
+EMP0046,Amit Trivedi,Operations,Manager,Bharuch,8,34,amit.trivedi46@company.com,9401624518,Active
+EMP0047,Sneha Trivedi,Administration,Coordinator,Morbi,17,11,sneha.trivedi47@company.com,9399212344,Active
+EMP0048,Pooja Patel,Customer Support,Supervisor,Morbi,15,5,pooja.patel48@company.com,9457736258,Active
+EMP0049,Aarav Parmar,Operations,Manager,Bhavnagar,14,8,aarav.parmar49@company.com,9393525730,Active
+EMP0050,Pooja Shah,Finance,Engineer,Kutch,1,15,pooja.shah50@company.com,9196763001,Active
+EMP0051,Nirav Parmar,Technical,Manager,Bharuch,17,10,nirav.parmar51@company.com,9679966885,Active
+EMP0052,Rahul Desai,Procurement,Field Officer,Bharuch,10,8,rahul.desai52@company.com,9553057410,Active
+EMP0053,Vivaan Prajapati,Technical,Manager,Ahmedabad,3,20,vivaan.prajapati53@company.com,9040635242,Active
+EMP0054,Ishita Trivedi,Customer Support,Field Officer,Anand,18,15,ishita.trivedi54@company.com,9308292266,Active
+EMP0055,Riya Trivedi,Maintenance,Coordinator,Junagadh,4,11,riya.trivedi55@company.com,9049845053,Active
+EMP0056,Mehul Chauhan,Technical,Coordinator,Bhavnagar,11,17,mehul.chauhan56@company.com,9556803259,Active
+EMP0057,Rahul Joshi,Procurement,Coordinator,Ahmedabad,1,32,rahul.joshi57@company.com,9380107510,Active
+EMP0058,Dhruv Desai,Administration,Manager,Bharuch,1,22,dhruv.desai58@company.com,9386020624,Active
+EMP0059,Karan Modi,Technical,Supervisor,Morbi,12,32,karan.modi59@company.com,9424862379,Active
+EMP0060,Karan Patel,Maintenance,Executive,Jamnagar,14,20,karan.patel60@company.com,9788950701,Active
+EMP0061,Yash Joshi,Customer Support,Field Officer,Valsad,9,12,yash.joshi61@company.com,9423047396,Active
+EMP0062,Ananya Parmar,Administration,Executive,Morbi,13,40,ananya.parmar62@company.com,9423264803,Active
+EMP0063,Raj Desai,Finance,Manager,Bharuch,4,39,raj.desai63@company.com,9847678347,Active
+EMP0064,Yash Patel,Customer Support,Executive,Patan,3,36,yash.patel64@company.com,9332000959,Active
+EMP0065,Ananya Mehta,Finance,Manager,Bharuch,2,10,ananya.mehta65@company.com,9912387266,Active
+EMP0066,Sneha Desai,Maintenance,Field Officer,Bhavnagar,5,40,sneha.desai66@company.com,9673060998,Active
+EMP0067,Neha Shah,Finance,Field Officer,Gandhinagar,3,20,neha.shah67@company.com,9436314566,Active
+EMP0068,Mehul Modi,Operations,Manager,Valsad,16,37,mehul.modi68@company.com,9997594883,Active
+EMP0069,Dhruv Patel,Technical,Coordinator,Surat,4,33,dhruv.patel69@company.com,9730284776,Active
+EMP0070,Harsh Desai,Finance,Coordinator,Bhavnagar,10,21,harsh.desai70@company.com,9785708152,Active
+EMP0071,Vivaan Desai,Technical,Engineer,Mehsana,3,6,vivaan.desai71@company.com,9532994537,Active
+EMP0072,Pooja Parmar,Customer Support,Executive,Mehsana,15,10,pooja.parmar72@company.com,9753830572,Active
+EMP0073,Sneha Modi,Operations,Coordinator,Mehsana,18,23,sneha.modi73@company.com,9560335939,Active
+EMP0074,Karan Parmar,Technical,Manager,Gandhinagar,15,23,karan.parmar74@company.com,9380681751,Active
+EMP0075,Rahul Prajapati,Maintenance,Field Officer,Surat,6,13,rahul.prajapati75@company.com,9804689082,Active
+EMP0076,Mehul Chauhan,Technical,Supervisor,Bhavnagar,16,27,mehul.chauhan76@company.com,9169201399,Active
+EMP0077,Riya Shah,Operations,Manager,Surat,18,13,riya.shah77@company.com,9098172059,Active
+EMP0078,Priya Joshi,Maintenance,Coordinator,Valsad,6,10,priya.joshi78@company.com,9346895181,Active
+EMP0079,Sneha Desai,Customer Support,Field Officer,Anand,15,39,sneha.desai79@company.com,9651383799,Active
+EMP0080,Ishita Chauhan,Customer Support,Supervisor,Patan,20,6,ishita.chauhan80@company.com,9963463265,Active
+EMP0081,Yash Modi,Finance,Executive,Rajkot,3,31,yash.modi81@company.com,9886999927,Active
+EMP0082,Riya Prajapati,Procurement,Coordinator,Morbi,10,12,riya.prajapati82@company.com,9381368160,Active
+EMP0083,Harsh Mehta,Procurement,Engineer,Anand,19,14,harsh.mehta83@company.com,9837002923,Active
+EMP0084,Dhruv Joshi,Finance,Manager,Anand,9,29,dhruv.joshi84@company.com,9934222611,Active
+EMP0085,Pooja Prajapati,Customer Support,Executive,Kutch,12,12,pooja.prajapati85@company.com,9565347536,Active
+EMP0086,Ishita Mehta,Procurement,Field Officer,Kutch,6,10,ishita.mehta86@company.com,9113483383,Active
+EMP0087,Raj Modi,Maintenance,Executive,Vadodara,10,27,raj.modi87@company.com,9528182844,Active
+EMP0088,Raj Prajapati,Maintenance,Executive,Rajkot,16,34,raj.prajapati88@company.com,9706393097,Active
+EMP0089,Dev Modi,Procurement,Engineer,Valsad,14,29,dev.modi89@company.com,9599580035,Active
+EMP0090,Pooja Modi,Finance,Engineer,Patan,1,22,pooja.modi90@company.com,9713992997,Active
+EMP0091,Rahul Trivedi,Operations,Field Officer,Junagadh,10,33,rahul.trivedi91@company.com,9950350230,Active
+EMP0092,Dhruv Desai,Procurement,Engineer,Vadodara,19,37,dhruv.desai92@company.com,9923886849,Active
+EMP0093,Priya Modi,Operations,Field Officer,Bhavnagar,2,5,priya.modi93@company.com,9785395792,Active
+EMP0094,Krishna Parmar,Operations,Field Officer,Gandhinagar,3,33,krishna.parmar94@company.com,9613949366,Active
+EMP0095,Harsh Modi,Operations,Supervisor,Patan,9,14,harsh.modi95@company.com,9230076604,Active
+EMP0096,Neha Desai,Operations,Field Officer,Anand,7,25,neha.desai96@company.com,9371168440,Active
+EMP0097,Raj Joshi,Finance,Executive,Anand,11,35,raj.joshi97@company.com,9963534495,Active
+EMP0098,Raj Mehta,Administration,Field Officer,Bhavnagar,18,31,raj.mehta98@company.com,9633721821,Active
+EMP0099,Rahul Prajapati,Maintenance,Coordinator,Anand,6,6,rahul.prajapati99@company.com,9484497750,Active
+EMP0100,Rahul Prajapati,Administration,Supervisor,Bharuch,2,34,rahul.prajapati100@company.com,9926162319,Active
+EMP0101,Neha Chauhan,Operations,Manager,Valsad,17,31,neha.chauhan101@company.com,9050321197,Active
+EMP0102,Mehul Joshi,Administration,Supervisor,Anand,3,29,mehul.joshi102@company.com,9431503531,Active
+EMP0103,Ishita Prajapati,Operations,Coordinator,Rajkot,11,15,ishita.prajapati103@company.com,9567692265,Active
+EMP0104,Rahul Chauhan,Administration,Supervisor,Junagadh,10,9,rahul.chauhan104@company.com,9676305643,Active
+EMP0105,Sneha Trivedi,Finance,Supervisor,Vadodara,18,9,sneha.trivedi105@company.com,9216578403,Active
+EMP0106,Riya Modi,Technical,Manager,Vadodara,2,37,riya.modi106@company.com,9552786493,Active
+EMP0107,Nirav Mehta,Administration,Coordinator,Surat,18,29,nirav.mehta107@company.com,9856670975,Active
+EMP0108,Pooja Prajapati,Maintenance,Coordinator,Junagadh,1,17,pooja.prajapati108@company.com,9052719391,Active
+EMP0109,Karan Trivedi,Operations,Supervisor,Valsad,19,29,karan.trivedi109@company.com,9061641478,Active
+EMP0110,Krishna Shah,Operations,Supervisor,Bhavnagar,11,17,krishna.shah110@company.com,9433597061,Active
+EMP0111,Sneha Modi,Procurement,Engineer,Navsari,5,25,sneha.modi111@company.com,9706024306,Active
+EMP0112,Raj Desai,Administration,Field Officer,Surat,19,12,raj.desai112@company.com,9681466382,Active
+EMP0113,Riya Prajapati,Procurement,Engineer,Navsari,18,8,riya.prajapati113@company.com,9043078915,Active
+EMP0114,Riya Prajapati,Administration,Field Officer,Gandhinagar,7,35,riya.prajapati114@company.com,9579905682,Active
+EMP0115,Dhruv Shah,Finance,Engineer,Kutch,2,30,dhruv.shah115@company.com,9347356186,Active
+EMP0116,Riya Prajapati,Operations,Field Officer,Bharuch,18,39,riya.prajapati116@company.com,9842269996,Active
+EMP0117,Dhruv Mehta,Customer Support,Field Officer,Junagadh,1,25,dhruv.mehta117@company.com,9727423252,Active
+EMP0118,Ananya Modi,Operations,Supervisor,Surat,13,30,ananya.modi118@company.com,9897390421,Active
+EMP0119,Mehul Chauhan,Maintenance,Engineer,Rajkot,10,9,mehul.chauhan119@company.com,9586353350,Active
+EMP0120,Karan Desai,Maintenance,Engineer,Kutch,3,37,karan.desai120@company.com,9104958019,Active
+EMP0121,Nirav Modi,Maintenance,Executive,Rajkot,4,37,nirav.modi121@company.com,9626857443,Active
+EMP0122,Dhruv Trivedi,Procurement,Coordinator,Patan,9,38,dhruv.trivedi122@company.com,9681278704,Active
+EMP0123,Raj Trivedi,Operations,Executive,Junagadh,7,35,raj.trivedi123@company.com,9573403432,Active
+EMP0124,Raj Chauhan,Technical,Engineer,Gandhinagar,2,15,raj.chauhan124@company.com,9733595331,Active
+EMP0125,Harsh Prajapati,Finance,Field Officer,Junagadh,5,29,harsh.prajapati125@company.com,9336800409,Active
+EMP0126,Ananya Trivedi,Customer Support,Executive,Jamnagar,7,31,ananya.trivedi126@company.com,9966227698,Active
+EMP0127,Amit Modi,Maintenance,Field Officer,Junagadh,16,39,amit.modi127@company.com,9524960166,Active
+EMP0128,Neha Prajapati,Administration,Engineer,Patan,15,34,neha.prajapati128@company.com,9053448440,Active
+EMP0129,Amit Chauhan,Customer Support,Coordinator,Rajkot,6,5,amit.chauhan129@company.com,9399676117,Active
+EMP0130,Dev Modi,Finance,Engineer,Bhavnagar,20,15,dev.modi130@company.com,9535386180,Active
+EMP0131,Dev Trivedi,Customer Support,Manager,Anand,14,27,dev.trivedi131@company.com,9054592670,Active
+EMP0132,Ishita Prajapati,Customer Support,Manager,Junagadh,19,11,ishita.prajapati132@company.com,9985712513,Active
+EMP0133,Ishita Parmar,Customer Support,Executive,Junagadh,14,11,ishita.parmar133@company.com,9310128229,Active
+EMP0134,Aarav Desai,Procurement,Supervisor,Jamnagar,3,25,aarav.desai134@company.com,9705941367,Active
+EMP0135,Dhruv Trivedi,Customer Support,Engineer,Gandhinagar,13,40,dhruv.trivedi135@company.com,9518366060,Active
+EMP0136,Rahul Prajapati,Customer Support,Manager,Vadodara,5,13,rahul.prajapati136@company.com,9447475859,Active
+EMP0137,Riya Patel,Technical,Coordinator,Patan,2,8,riya.patel137@company.com,9123464775,Active
+EMP0138,Rahul Modi,Administration,Executive,Morbi,12,27,rahul.modi138@company.com,9523409062,Active
+EMP0139,Karan Modi,Technical,Engineer,Valsad,11,30,karan.modi139@company.com,9983718217,Active
+EMP0140,Aarav Joshi,Administration,Field Officer,Kutch,8,38,aarav.joshi140@company.com,9129909655,Active
+EMP0141,Karan Desai,Customer Support,Coordinator,Gandhinagar,2,30,karan.desai141@company.com,9221342565,Active
+EMP0142,Dhruv Modi,Operations,Coordinator,Bhavnagar,12,14,dhruv.modi142@company.com,9526791971,Active
+EMP0143,Nirav Mehta,Procurement,Coordinator,Patan,9,31,nirav.mehta143@company.com,9852418349,Active
+EMP0144,Amit Modi,Technical,Engineer,Navsari,2,37,amit.modi144@company.com,9254498407,Active
+EMP0145,Raj Chauhan,Technical,Manager,Bharuch,6,13,raj.chauhan145@company.com,9350677343,Active
+EMP0146,Aarav Joshi,Customer Support,Engineer,Anand,18,8,aarav.joshi146@company.com,9809932298,Active
+EMP0147,Yash Modi,Technical,Coordinator,Junagadh,8,18,yash.modi147@company.com,9561821755,Active
+EMP0148,Pooja Mehta,Finance,Supervisor,Surat,19,28,pooja.mehta148@company.com,9643920174,Active
+EMP0149,Aarav Shah,Technical,Executive,Navsari,13,18,aarav.shah149@company.com,9765021107,Active
+EMP0150,Riya Patel,Finance,Executive,Ahmedabad,20,15,riya.patel150@company.com,9257862553,Active
+EMP0151,Nirav Chauhan,Operations,Executive,Ahmedabad,12,33,nirav.chauhan151@company.com,9477739928,Active
+EMP0152,Pooja Shah,Customer Support,Executive,Junagadh,12,7,pooja.shah152@company.com,9454339654,Active
+EMP0153,Dev Desai,Maintenance,Field Officer,Mehsana,19,31,dev.desai153@company.com,9113219526,Active
+EMP0154,Neha Trivedi,Administration,Coordinator,Jamnagar,4,15,neha.trivedi154@company.com,9727694215,Active
+EMP0155,Dhruv Patel,Procurement,Supervisor,Jamnagar,8,31,dhruv.patel155@company.com,9081806116,Active
+EMP0156,Karan Mehta,Technical,Manager,Gandhinagar,3,39,karan.mehta156@company.com,9355463074,Active
+EMP0157,Yash Modi,Technical,Executive,Bhavnagar,16,24,yash.modi157@company.com,9030422604,Active
+EMP0158,Raj Patel,Procurement,Coordinator,Rajkot,10,12,raj.patel158@company.com,9136210090,Active
+EMP0159,Karan Parmar,Procurement,Supervisor,Surat,12,29,karan.parmar159@company.com,9699019386,Active
+EMP0160,Mehul Chauhan,Customer Support,Executive,Bhavnagar,3,29,mehul.chauhan160@company.com,9797323573,Active
+EMP0161,Priya Patel,Procurement,Coordinator,Jamnagar,18,5,priya.patel161@company.com,9744714978,Active
+EMP0162,Rahul Parmar,Maintenance,Engineer,Navsari,8,11,rahul.parmar162@company.com,9835806674,Active
+EMP0163,Ishita Shah,Technical,Manager,Mehsana,9,10,ishita.shah163@company.com,9882190949,Active
+EMP0164,Dev Trivedi,Operations,Supervisor,Patan,18,24,dev.trivedi164@company.com,9758704759,Active
+EMP0165,Dev Modi,Procurement,Coordinator,Morbi,14,14,dev.modi165@company.com,9284517779,Active
+EMP0166,Rahul Modi,Operations,Engineer,Rajkot,2,21,rahul.modi166@company.com,9430892094,Active
+EMP0167,Amit Parmar,Customer Support,Engineer,Navsari,14,22,amit.parmar167@company.com,9101075672,Active
+EMP0168,Harsh Chauhan,Operations,Supervisor,Morbi,17,24,harsh.chauhan168@company.com,9875216405,Active
+EMP0169,Nirav Shah,Procurement,Engineer,Ahmedabad,1,24,nirav.shah169@company.com,9256046433,Active
+EMP0170,Riya Joshi,Finance,Coordinator,Ahmedabad,20,7,riya.joshi170@company.com,9433467525,Active
+EMP0171,Raj Joshi,Administration,Coordinator,Kutch,17,40,raj.joshi171@company.com,9927265499,Active
+EMP0172,Krishna Patel,Customer Support,Supervisor,Rajkot,19,22,krishna.patel172@company.com,9709230683,Active
+EMP0173,Ishita Patel,Customer Support,Engineer,Mehsana,5,17,ishita.patel173@company.com,9153488737,Active
+EMP0174,Dev Mehta,Technical,Supervisor,Junagadh,12,24,dev.mehta174@company.com,9909723530,Active
+EMP0175,Sneha Modi,Finance,Coordinator,Valsad,6,10,sneha.modi175@company.com,9238145629,Active
+EMP0176,Karan Mehta,Finance,Executive,Surat,2,11,karan.mehta176@company.com,9866353004,Active
+EMP0177,Amit Joshi,Administration,Executive,Kutch,15,31,amit.joshi177@company.com,9117197656,Active
+EMP0178,Ananya Trivedi,Administration,Executive,Morbi,7,5,ananya.trivedi178@company.com,9295856964,Active
+EMP0179,Amit Joshi,Technical,Coordinator,Kutch,11,28,amit.joshi179@company.com,9548428972,Active
+EMP0180,Ishita Mehta,Operations,Coordinator,Mehsana,17,36,ishita.mehta180@company.com,9727242598,Active
+EMP0181,Amit Joshi,Maintenance,Coordinator,Surat,10,20,amit.joshi181@company.com,9823199275,Active
+EMP0182,Riya Modi,Customer Support,Manager,Bharuch,6,12,riya.modi182@company.com,9170877513,Active
+EMP0183,Sneha Joshi,Procurement,Executive,Navsari,17,11,sneha.joshi183@company.com,9576502631,Active
+EMP0184,Vivaan Shah,Customer Support,Executive,Jamnagar,7,23,vivaan.shah184@company.com,9026489209,Active
+EMP0185,Amit Desai,Customer Support,Supervisor,Vadodara,14,7,amit.desai185@company.com,9290688159,Active
+EMP0186,Krishna Patel,Customer Support,Coordinator,Vadodara,14,31,krishna.patel186@company.com,9525619698,Active
+EMP0187,Aarav Parmar,Maintenance,Field Officer,Patan,10,16,aarav.parmar187@company.com,9812421942,Active
+EMP0188,Harsh Prajapati,Maintenance,Field Officer,Jamnagar,8,21,harsh.prajapati188@company.com,9358535977,Active
+EMP0189,Riya Joshi,Operations,Coordinator,Gandhinagar,15,40,riya.joshi189@company.com,9953055186,Active
+EMP0190,Mehul Shah,Operations,Supervisor,Ahmedabad,3,24,mehul.shah190@company.com,9301823765,Active
+EMP0191,Karan Chauhan,Procurement,Engineer,Rajkot,12,15,karan.chauhan191@company.com,9660611870,Active
+EMP0192,Harsh Joshi,Procurement,Coordinator,Anand,18,22,harsh.joshi192@company.com,9562600471,Active
+EMP0193,Rahul Mehta,Administration,Engineer,Navsari,19,40,rahul.mehta193@company.com,9416677946,Active
+EMP0194,Pooja Chauhan,Customer Support,Executive,Surat,13,27,pooja.chauhan194@company.com,9701230118,Active
+EMP0195,Aarav Parmar,Customer Support,Field Officer,Vadodara,11,7,aarav.parmar195@company.com,9449671690,Active
+EMP0196,Ishita Modi,Technical,Executive,Navsari,1,24,ishita.modi196@company.com,9099553116,Active
+EMP0197,Aarav Parmar,Operations,Engineer,Mehsana,3,15,aarav.parmar197@company.com,9664987544,Active
+EMP0198,Yash Modi,Maintenance,Field Officer,Bharuch,4,16,yash.modi198@company.com,9566631965,Active
+EMP0199,Yash Patel,Administration,Field Officer,Bharuch,3,26,yash.patel199@company.com,9954223154,Active
+EMP0200,Dev Shah,Procurement,Coordinator,Junagadh,7,38,dev.shah200@company.com,9877678832,Active
+EMP0201,Karan Shah,Finance,Engineer,Patan,8,19,karan.shah201@company.com,9704858865,Active
+EMP0202,Aarav Shah,Finance,Coordinator,Rajkot,3,28,aarav.shah202@company.com,9188783548,Active
+EMP0203,Nirav Desai,Maintenance,Manager,Bharuch,20,29,nirav.desai203@company.com,9984862212,Active
+EMP0204,Priya Joshi,Finance,Supervisor,Bhavnagar,20,12,priya.joshi204@company.com,9230879031,Active
+EMP0205,Sneha Shah,Customer Support,Coordinator,Junagadh,3,23,sneha.shah205@company.com,9902345627,Active
+EMP0206,Neha Prajapati,Finance,Coordinator,Patan,1,8,neha.prajapati206@company.com,9699337176,Active
+EMP0207,Neha Chauhan,Finance,Manager,Jamnagar,15,12,neha.chauhan207@company.com,9680503858,Active
+EMP0208,Vivaan Modi,Customer Support,Manager,Jamnagar,11,21,vivaan.modi208@company.com,9957231144,Active
+EMP0209,Harsh Mehta,Customer Support,Coordinator,Morbi,3,35,harsh.mehta209@company.com,9966876825,Active
+EMP0210,Krishna Parmar,Operations,Supervisor,Valsad,20,39,krishna.parmar210@company.com,9762796436,Active
+EMP0211,Aarav Modi,Operations,Coordinator,Patan,9,26,aarav.modi211@company.com,9312574831,Active
+EMP0212,Mehul Trivedi,Operations,Manager,Patan,2,30,mehul.trivedi212@company.com,9872773090,Active
+EMP0213,Harsh Trivedi,Technical,Supervisor,Mehsana,9,31,harsh.trivedi213@company.com,9988523531,Active
+EMP0214,Raj Patel,Technical,Supervisor,Rajkot,13,33,raj.patel214@company.com,9840643863,Active
+EMP0215,Rahul Joshi,Administration,Supervisor,Ahmedabad,14,27,rahul.joshi215@company.com,9665026931,Active
+EMP0216,Dhruv Shah,Procurement,Field Officer,Kutch,16,18,dhruv.shah216@company.com,9507671681,Active
+EMP0217,Aarav Prajapati,Procurement,Executive,Junagadh,18,21,aarav.prajapati217@company.com,9787895200,Active
+EMP0218,Nirav Parmar,Finance,Manager,Patan,1,13,nirav.parmar218@company.com,9133357039,Active
+EMP0219,Sneha Parmar,Administration,Field Officer,Jamnagar,12,17,sneha.parmar219@company.com,9999579753,Active
+EMP0220,Riya Patel,Customer Support,Executive,Navsari,16,26,riya.patel220@company.com,9125573628,Active
+EMP0221,Harsh Chauhan,Procurement,Supervisor,Ahmedabad,10,39,harsh.chauhan221@company.com,9493990700,Active
+EMP0222,Raj Trivedi,Technical,Coordinator,Bharuch,4,13,raj.trivedi222@company.com,9111750189,Active
+EMP0223,Ishita Patel,Customer Support,Field Officer,Kutch,9,33,ishita.patel223@company.com,9832533722,Active
+EMP0224,Ananya Desai,Technical,Coordinator,Patan,16,35,ananya.desai224@company.com,9416097941,Active
+EMP0225,Krishna Mehta,Procurement,Executive,Bhavnagar,12,34,krishna.mehta225@company.com,9665196500,Active
+EMP0226,Nirav Modi,Procurement,Field Officer,Kutch,16,39,nirav.modi226@company.com,9828314747,Active
+EMP0227,Amit Desai,Technical,Engineer,Gandhinagar,12,33,amit.desai227@company.com,9536958372,Active
+EMP0228,Ishita Parmar,Operations,Supervisor,Junagadh,18,21,ishita.parmar228@company.com,9567199577,Active
+EMP0229,Nirav Trivedi,Maintenance,Supervisor,Anand,17,21,nirav.trivedi229@company.com,9063861995,Active
+EMP0230,Harsh Mehta,Maintenance,Coordinator,Bhavnagar,19,6,harsh.mehta230@company.com,9916878109,Active
+EMP0231,Rahul Chauhan,Administration,Executive,Surat,8,31,rahul.chauhan231@company.com,9311827823,Active
+EMP0232,Yash Modi,Customer Support,Executive,Junagadh,11,30,yash.modi232@company.com,9512214020,Active
+EMP0233,Harsh Trivedi,Procurement,Supervisor,Rajkot,17,25,harsh.trivedi233@company.com,9136110544,Active
+EMP0234,Krishna Trivedi,Maintenance,Coordinator,Kutch,18,14,krishna.trivedi234@company.com,9907105733,Active
+EMP0235,Pooja Shah,Procurement,Engineer,Rajkot,5,10,pooja.shah235@company.com,9364349738,Active
+EMP0236,Ananya Prajapati,Operations,Engineer,Bhavnagar,13,6,ananya.prajapati236@company.com,9196065212,Active
+EMP0237,Riya Mehta,Finance,Field Officer,Patan,18,36,riya.mehta237@company.com,9507584619,Active
+EMP0238,Riya Parmar,Administration,Field Officer,Surat,12,30,riya.parmar238@company.com,9446836641,Active
+EMP0239,Dev Prajapati,Finance,Field Officer,Bhavnagar,6,39,dev.prajapati239@company.com,9744054077,Active
+EMP0240,Dev Patel,Technical,Executive,Valsad,5,26,dev.patel240@company.com,9132134223,Active
+EMP0241,Karan Joshi,Technical,Field Officer,Navsari,1,33,karan.joshi241@company.com,9943053114,Active
+EMP0242,Karan Shah,Customer Support,Supervisor,Anand,12,26,karan.shah242@company.com,9450347440,Active
+EMP0243,Dev Shah,Administration,Coordinator,Valsad,3,29,dev.shah243@company.com,9886423466,Active
+EMP0244,Pooja Joshi,Procurement,Engineer,Patan,16,19,pooja.joshi244@company.com,9839104790,Active
+EMP0245,Krishna Trivedi,Technical,Manager,Mehsana,6,39,krishna.trivedi245@company.com,9037836008,Active
+EMP0246,Krishna Prajapati,Operations,Engineer,Anand,18,7,krishna.prajapati246@company.com,9755766654,Active
+EMP0247,Ananya Patel,Customer Support,Field Officer,Anand,4,27,ananya.patel247@company.com,9267701282,Active
+EMP0248,Krishna Parmar,Finance,Manager,Patan,6,26,krishna.parmar248@company.com,9537914616,Active
+EMP0249,Karan Joshi,Administration,Engineer,Bhavnagar,6,12,karan.joshi249@company.com,9993412998,Active
+EMP0250,Krishna Parmar,Procurement,Manager,Vadodara,2,33,krishna.parmar250@company.com,9502570407,Active

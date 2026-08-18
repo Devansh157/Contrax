@@ -1,0 +1,35 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="contraxCyanTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="40%" stop-color="#00C6FF" />
+      <stop offset="100%" stop-color="#0072FF" />
+    </linearGradient>
+    
+    <linearGradient id="contraxCyanBottom" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="50%" stop-color="#00A8FF" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Top Hexagonal Ribbon -->
+  <path 
+    d="M 14 57 L 38 14 L 98 14 L 75 41 L 53 41 L 34 57 Z" 
+    fill="url(#contraxCyanTop)"
+    stroke="url(#contraxCyanTop)"
+    stroke-width="1.5"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+
+  <!-- Bottom Hexagonal Ribbon -->
+  <path 
+    d="M 14 63 L 38 106 L 98 106 L 75 79 L 53 79 L 34 63 Z" 
+    fill="url(#contraxCyanBottom)"
+    stroke="url(#contraxCyanBottom)"
+    stroke-width="1.5"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+</svg>
